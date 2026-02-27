@@ -425,7 +425,7 @@
       <div class="next-update" id="next-update"></div>
     </div>
   </div>
-  <button class="refresh-btn" id="refresh-btn" onclick="manualRefresh()">수동 업데이트</button>
+  <button class="refresh-btn" id="refresh-btn" onclick="manualRefresh()" style="display:none;">수동 업데이트</button>
 </div>
 
 <div class="two-column">
@@ -910,6 +910,11 @@
   }
   checkLMStudio();
   setInterval(checkLMStudio, 30000);
+
+  // 로컬 접속일 때만 수동 업데이트 버튼 표시
+  if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+    document.getElementById('refresh-btn').style.display = '';
+  }
 </script>
 </body>
 </html>
