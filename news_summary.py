@@ -6,6 +6,7 @@ AI 뉴스 수집 및 요약 스크립트
 """
 
 import json
+import subprocess
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from pathlib import Path
@@ -13,7 +14,8 @@ from pathlib import Path
 import requests
 
 LMSTUDIO_URL = "http://localhost:1234/v1/chat/completions"
-OUTPUT_FILE = Path(__file__).parent / "news_data.json"
+PROJECT_DIR = Path(__file__).parent
+OUTPUT_FILE = PROJECT_DIR / "news_data.json"
 
 # Google News RSS 피드
 GOOGLE_FEEDS = {
@@ -257,6 +259,24 @@ def main():
     OUTPUT_FILE.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n결과 저장: {OUTPUT_FILE}")
     print(f"\n--- 요약 ---\n{summary}")
+
+    # GitHub Pages 자동 업데이트
+    try:
+        subprocess.run(
+            ["git", "add", "news_data.json"],
+            cwd=str(PROJECT_DIR), capture_output=True,
+        )
+        subprocess.run(
+            ["git", "commit", "-m", f"Update news data: {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
+            cwd=str(PROJECT_DIR), capture_output=True,
+        )
+        subprocess.run(
+            ["git", "push"],
+            cwd=str(PROJECT_DIR), capture_output=True,
+        )
+        print("GitHub Pages 업데이트 완료")
+    except Exception as e:
+        print(f"GitHub push 실패 (무시): {e}")
 
 
 if __name__ == "__main__":
