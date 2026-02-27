@@ -20,7 +20,7 @@ PROJECT_DIR = Path(__file__).parent
 class DashboardHandler(SimpleHTTPRequestHandler):
     def do_GET(self):
         if self.path == '/':
-            self.path = '/dashboard.html'
+            self.path = '/index.html'
 
         if self.path == '/api/refresh':
             self.send_response(200)
