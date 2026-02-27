@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 뉴스 전체 요약</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    min-height: 100vh;
+    padding: 24px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #21262d;
+  }
+
+  .header h1 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #58a6ff;
+  }
+
+  .back-link {
+    color: #8b949e;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 6px 14px;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    transition: all 0.2s;
+  }
+
+  .back-link:hover {
+    color: #e6edf3;
+    border-color: #30363d;
+  }
+
+  .updated {
+    font-size: 13px;
+    color: #484f58;
+    margin-bottom: 24px;
+  }
+
+  /* Summary Box */
+  .summary-box {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-left: 3px solid #58a6ff;
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 28px;
+  }
+
+  .summary-box h2 {
+    font-size: 16px;
+    color: #58a6ff;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .summary-text {
+    font-size: 15px;
+    line-height: 1.9;
+    color: #c9d1d9;
+    white-space: pre-line;
+  }
+
+  .badge {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-top: 14px;
+    display: inline-block;
+  }
+
+  .badge-local { color: #3fb950; background: #1a3527; }
+
+  /* Category */
+  .category {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .category h2 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #8b949e;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #21262d;
+  }
+
+  .article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    border-radius: 8px;
+    transition: background 0.2s;
+    gap: 12px;
+  }
+
+  .article:hover {
+    background: #1c2333;
+  }
+
+  .article a {
+    color: #e6edf3;
+    text-decoration: none;
+    font-size: 14px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .article a:hover {
+    color: #58a6ff;
+  }
+
+  .article .source {
+    color: #58a6ff;
+    font-size: 11px;
+    background: #1a3a5c;
+    padding: 2px 8px;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+
+  .article .date {
+    color: #484f58;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+
+  .no-data {
+    text-align: center;
+    color: #484f58;
+    padding: 40px;
+    font-size: 14px;
+  }
+
+  .refresh-btn {
+    display: block;
+    margin: 0 auto 28px;
+    padding: 10px 24px;
+    background: #1f6feb;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .refresh-btn:hover {
+    background: #388bfd;
+  }
+
+  .footer {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #21262d;
+    color: #30363d;
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AI 뉴스 전체 요약</h1>
+  <a href="dashboard.html" class="back-link">← Dashboard</a>
+</div>
+
+<div class="updated" id="updated-time"></div>
+
+<div id="content">
+  <div class="no-data" id="no-data">
+    news_data.json 파일이 없습니다.<br>
+    터미널에서 다음 명령어를 실행해주세요:<br><br>
+    <code style="color:#58a6ff;">cd ~/claude_project && source venv/bin/activate && python news_summary.py</code>
+  </div>
+</div>
+
+<div class="footer">Powered by LM Studio (로컬 AI)</div>
+
+<script>
+  async function loadData() {
+    try {
+      const res = await fetch('news_data.json?' + Date.now());
+      const data = await res.json();
+
+      document.getElementById('no-data').style.display = 'none';
+      document.getElementById('updated-time').textContent = `마지막 업데이트: ${data.updated_at}`;
+
+      const content = document.getElementById('content');
+
+      // Summary
+      if (data.summary) {
+        const box = document.createElement('div');
+        box.className = 'summary-box';
+        box.innerHTML = `
+          <h2>AI 트렌드 요약</h2>
+          <div class="summary-text">${data.summary}</div>
+          <span class="badge badge-local">LM Studio 로컬 AI 요약</span>
+        `;
+        content.prepend(box);
+      }
+
+      // Categories
+      if (data.categories) {
+        data.categories.forEach(cat => {
+          const section = document.createElement('div');
+          section.className = 'category';
+
+          let articlesHtml = '';
+          cat.articles.forEach(a => {
+            const date = a.date ? new Date(a.date) : null;
+            const dateStr = date
+              ? `${date.getMonth()+1}/${date.getDate()} ${date.getHours()}:${String(date.getMinutes()).padStart(2,'0')}`
+              : '';
+
+            articlesHtml += `
+              <div class="article">
+                <a href="${a.link}" target="_blank">${a.title}</a>
+                ${a.source ? `<span class="source">${a.source}</span>` : ''}
+                <span class="date">${dateStr}</span>
+              </div>`;
+          });
+
+          section.innerHTML = `
+            <h2>${cat.name} (${cat.articles.length})</h2>
+            ${articlesHtml || '<div style="color:#484f58;padding:10px;">뉴스 없음</div>'}
+          `;
+          content.appendChild(section);
+        });
+      }
+    } catch (e) {
+      // no data file
+    }
+  }
+  loadData();
+</script>
+</body>
+</html>

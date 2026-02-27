@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Dashboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    min-height: 100vh;
+    padding: 24px;
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #21262d;
+  }
+
+  .header h1 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #58a6ff;
+  }
+
+  .clock {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .clock .time {
+    font-size: 28px;
+    font-weight: 300;
+    color: #f0f6fc;
+  }
+
+  .clock .date {
+    font-size: 13px;
+    color: #8b949e;
+    margin-top: 2px;
+  }
+
+  /* Summary */
+  .summary-section {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 28px;
+    border-left: 3px solid #58a6ff;
+  }
+
+  .summary-content {
+    font-size: 14px;
+    line-height: 1.8;
+    color: #c9d1d9;
+    white-space: pre-line;
+  }
+
+  .summary-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #21262d;
+  }
+
+  .summary-time {
+    font-size: 12px;
+    color: #484f58;
+  }
+
+  .summary-badge {
+    font-size: 11px;
+    color: #3fb950;
+    background: #1a3527;
+    padding: 3px 10px;
+    border-radius: 4px;
+  }
+
+  /* Update Bar */
+  .update-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 12px 16px;
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 10px;
+  }
+
+  .update-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    color: #8b949e;
+  }
+
+  .update-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #3fb950;
+    box-shadow: 0 0 6px #3fb95066;
+  }
+
+  .update-dot.stale {
+    background: #d29922;
+    box-shadow: 0 0 6px #d2992266;
+  }
+
+  .refresh-btn {
+    padding: 6px 16px;
+    background: transparent;
+    color: #58a6ff;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .refresh-btn:hover {
+    background: #1f6feb;
+    color: #fff;
+    border-color: #1f6feb;
+  }
+
+  .refresh-btn:disabled {
+    color: #484f58;
+    cursor: not-allowed;
+    background: transparent;
+    border-color: #21262d;
+  }
+
+  .next-update {
+    font-size: 11px;
+    color: #484f58;
+    margin-top: 2px;
+  }
+
+  /* Tabs */
+  .news-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 16px;
+  }
+
+  .news-tab {
+    padding: 5px 10px;
+    border-radius: 6px;
+    border: 1px solid #21262d;
+    background: transparent;
+    color: #8b949e;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .news-tab:hover {
+    color: #e6edf3;
+    border-color: #30363d;
+  }
+
+  .news-tab.active {
+    background: #1f6feb;
+    color: #fff;
+    border-color: #1f6feb;
+  }
+
+  /* News Section */
+  .news-section {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 28px;
+  }
+
+  .section-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #8b949e;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .section-title::before {
+    content: '';
+    width: 3px;
+    height: 14px;
+    background: #58a6ff;
+    border-radius: 2px;
+  }
+
+  .news-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .news-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+    border-radius: 8px;
+    transition: background 0.2s;
+  }
+
+  .news-item:hover {
+    background: #1c2333;
+  }
+
+  .news-item a {
+    color: #e6edf3;
+    text-decoration: none;
+    font-size: 14px;
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .news-item a:hover {
+    color: #58a6ff;
+  }
+
+  .news-item .news-source {
+    color: #58a6ff;
+    font-size: 11px;
+    background: #1a3a5c;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 10px;
+    white-space: nowrap;
+  }
+
+  .news-item .news-date {
+    color: #484f58;
+    font-size: 12px;
+    margin-left: 10px;
+    white-space: nowrap;
+  }
+
+  .news-loading {
+    color: #484f58;
+    font-size: 14px;
+    padding: 10px 14px;
+  }
+
+  .news-panel { display: none; }
+  .news-panel.active { display: block; }
+
+  /* Links Grid */
+  .links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 28px;
+  }
+
+  .link-group {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 12px;
+    padding: 20px;
+  }
+
+  .link-group .section-title {
+    margin-bottom: 12px;
+  }
+
+  .link-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .link-item a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #e6edf3;
+    font-size: 14px;
+    transition: background 0.2s;
+  }
+
+  .link-item a:hover {
+    background: #1c2333;
+    color: #58a6ff;
+  }
+
+  .link-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+
+  .link-meta {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .link-meta .label {
+    font-weight: 500;
+  }
+
+  .link-meta .url {
+    font-size: 11px;
+    color: #484f58;
+    margin-top: 1px;
+  }
+
+  .status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-left: auto;
+    flex-shrink: 0;
+  }
+
+  .status-dot.online { background: #3fb950; box-shadow: 0 0 6px #3fb95066; }
+  .status-dot.offline { background: #484f58; }
+  .status-dot.checking { background: #d29922; animation: pulse 1s infinite; }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  /* Color Themes for Icons */
+  .icon-blue { background: #1a3a5c; color: #58a6ff; }
+  .icon-purple { background: #2d1f54; color: #bc8cff; }
+  .icon-green { background: #1a3527; color: #3fb950; }
+  .icon-orange { background: #3d2a0a; color: #d29922; }
+  .icon-red { background: #3d1418; color: #f85149; }
+  .icon-cyan { background: #0a3d3d; color: #39d2d2; }
+
+  /* Two Column Layout */
+  .two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 900px) {
+    .two-column {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .two-column .summary-section {
+    margin-bottom: 0;
+    min-width: 0;
+    overflow: hidden;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  .two-column .news-section {
+    margin-bottom: 0;
+    min-width: 0;
+    overflow: hidden;
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #21262d;
+    color: #30363d;
+    font-size: 12px;
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Dashboard</h1>
+  <div class="clock">
+    <div class="time" id="clock-time"></div>
+    <div class="date" id="clock-date"></div>
+  </div>
+</div>
+
+<!-- Update Bar -->
+<div class="update-bar">
+  <div class="update-info">
+    <div class="update-dot" id="update-dot"></div>
+    <div>
+      <div id="update-time">업데이트 확인 중...</div>
+      <div class="next-update" id="next-update"></div>
+    </div>
+  </div>
+  <button class="refresh-btn" id="refresh-btn" onclick="manualRefresh()">수동 업데이트</button>
+</div>
+
+<div class="two-column">
+
+<!-- AI Summary (왼쪽) -->
+<div class="summary-section" id="summary-section">
+  <div class="section-title">AI 뉴스 요약</div>
+  <div class="summary-content" id="summary-content" style="color:#484f58;">요약 데이터를 불러오는 중...</div>
+  <div class="summary-meta">
+    <span class="summary-time" id="summary-time"></span>
+    <span class="summary-badge">LM Studio 로컬 AI 요약</span>
+  </div>
+</div>
+
+<!-- News (오른쪽) -->
+<div class="news-section">
+  <div class="section-title">AI News & Info</div>
+  <div class="news-tabs">
+    <button class="news-tab active" onclick="switchTab('latest')">최신 뉴스</button>
+    <button class="news-tab" onclick="switchTab('chatgpt')">ChatGPT</button>
+    <button class="news-tab" onclick="switchTab('llm')">LLM</button>
+    <button class="news-tab" onclick="switchTab('research')">AI 연구</button>
+    <button class="news-tab" onclick="switchTab('industry')">AI 산업</button>
+    <button class="news-tab" onclick="switchTab('global')">Global AI</button>
+    <button class="news-tab" onclick="switchTab('openai')">OpenAI</button>
+    <button class="news-tab" onclick="switchTab('airesearch')">AI Research</button>
+    <button class="news-tab" onclick="switchTab('techcrunch')">TechCrunch</button>
+    <button class="news-tab" onclick="switchTab('theverge')">The Verge</button>
+    <button class="news-tab" onclick="switchTab('wired')">Wired</button>
+  </div>
+  <div class="news-panel active" id="panel-latest">
+    <ul class="news-list" id="news-latest">
+      <li class="news-loading">뉴스를 불러오는 중...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-chatgpt">
+    <ul class="news-list" id="news-chatgpt">
+      <li class="news-loading">뉴스를 불러오는 중...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-llm">
+    <ul class="news-list" id="news-llm">
+      <li class="news-loading">뉴스를 불러오는 중...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-research">
+    <ul class="news-list" id="news-research">
+      <li class="news-loading">뉴스를 불러오는 중...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-industry">
+    <ul class="news-list" id="news-industry">
+      <li class="news-loading">뉴스를 불러오는 중...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-global">
+    <ul class="news-list" id="news-global">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-openai">
+    <ul class="news-list" id="news-openai">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-airesearch">
+    <ul class="news-list" id="news-airesearch">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-techcrunch">
+    <ul class="news-list" id="news-techcrunch">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-theverge">
+    <ul class="news-list" id="news-theverge">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+  <div class="news-panel" id="panel-wired">
+    <ul class="news-list" id="news-wired">
+      <li class="news-loading">Loading news...</li>
+    </ul>
+  </div>
+</div>
+
+</div><!-- /two-column -->
+
+<!-- Links -->
+<div class="links-grid">
+
+  <!-- AI 서비스 -->
+  <div class="link-group">
+    <div class="section-title">AI 서비스</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="https://claude.ai" target="_blank">
+          <div class="link-icon icon-orange">🤖</div>
+          <div class="link-meta">
+            <span class="label">Claude</span>
+            <span class="url">claude.ai</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://gemini.google.com" target="_blank">
+          <div class="link-icon icon-purple">✨</div>
+          <div class="link-meta">
+            <span class="label">Gemini</span>
+            <span class="url">gemini.google.com</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- 로컬 서비스 -->
+  <div class="link-group">
+    <div class="section-title">로컬 서비스</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="http://localhost:1234" target="_blank">
+          <div class="link-icon icon-green">🧠</div>
+          <div class="link-meta">
+            <span class="label">LM Studio</span>
+            <span class="url">localhost:1234</span>
+          </div>
+          <div class="status-dot checking" id="status-lmstudio" title="확인 중..."></div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://login.tailscale.com/admin/machines" target="_blank">
+          <div class="link-icon icon-cyan">🔗</div>
+          <div class="link-meta">
+            <span class="label">Tailscale 관리자</span>
+            <span class="url">login.tailscale.com/admin</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- AI 디렉토리 (글로벌) -->
+  <div class="link-group">
+    <div class="section-title">AI 디렉토리</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="https://theresanaiforthat.com" target="_blank">
+          <div class="link-icon icon-blue">🔍</div>
+          <div class="link-meta">
+            <span class="label">There's An AI For That</span>
+            <span class="url">세계 1위 AI 모음 사이트</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://www.futurepedia.io" target="_blank">
+          <div class="link-icon icon-purple">📚</div>
+          <div class="link-meta">
+            <span class="label">Futurepedia</span>
+            <span class="url">AI 백과사전 + 리뷰/평점</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://www.toolify.ai" target="_blank">
+          <div class="link-icon icon-orange">📈</div>
+          <div class="link-meta">
+            <span class="label">Toolify.ai</span>
+            <span class="url">AI 트렌드 순위 & 방문자 수</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://damoa.ai" target="_blank">
+          <div class="link-icon icon-cyan">🇰🇷</div>
+          <div class="link-meta">
+            <span class="label">다모아 AI</span>
+            <span class="url">한국어 AI 큐레이션</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- AI 놀이터 & 체험 -->
+  <div class="link-group">
+    <div class="section-title">AI 놀이터</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="https://poe.com" target="_blank">
+          <div class="link-icon icon-purple">💬</div>
+          <div class="link-meta">
+            <span class="label">Poe</span>
+            <span class="url">여러 AI 한곳에서 비교</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://huggingface.co/spaces" target="_blank">
+          <div class="link-icon icon-orange">🤗</div>
+          <div class="link-meta">
+            <span class="label">Hugging Face Spaces</span>
+            <span class="url">최신 AI 웹에서 바로 체험</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://www.producthunt.com/topics/artificial-intelligence" target="_blank">
+          <div class="link-icon icon-red">🚀</div>
+          <div class="link-meta">
+            <span class="label">Product Hunt AI</span>
+            <span class="url">매일 새로운 AI 서비스 런칭</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- 커뮤니티 & 뉴스 -->
+  <div class="link-group">
+    <div class="section-title">커뮤니티 & 뉴스</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="https://gpters.kr" target="_blank">
+          <div class="link-icon icon-green">🗣</div>
+          <div class="link-meta">
+            <span class="label">지피터스</span>
+            <span class="url">국내 최대 AI 활용 커뮤니티</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://disquiet.io" target="_blank">
+          <div class="link-icon icon-blue">⚡</div>
+          <div class="link-meta">
+            <span class="label">디스콰이엇</span>
+            <span class="url">IT 메이커 & 신규 서비스</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://www.aitimes.com" target="_blank">
+          <div class="link-icon icon-cyan">📰</div>
+          <div class="link-meta">
+            <span class="label">AI 타임스</span>
+            <span class="url">한국 AI 뉴스</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://news.hada.io" target="_blank">
+          <div class="link-icon icon-orange">💡</div>
+          <div class="link-meta">
+            <span class="label">GeekNews</span>
+            <span class="url">IT/개발 커뮤니티</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- AI 연구 & 논문 -->
+  <div class="link-group">
+    <div class="section-title">AI 연구 & 논문</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href="https://huggingface.co" target="_blank">
+          <div class="link-icon icon-orange">🤗</div>
+          <div class="link-meta">
+            <span class="label">Hugging Face</span>
+            <span class="url">AI 모델 & 데이터셋</span>
+          </div>
+        </a>
+      </li>
+      <li class="link-item">
+        <a href="https://arxiv.org/list/cs.AI/recent" target="_blank">
+          <div class="link-icon icon-red">📄</div>
+          <div class="link-meta">
+            <span class="label">arXiv AI</span>
+            <span class="url">최신 AI 논문</span>
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</div>
+
+<div class="footer">Dashboard</div>
+
+<script>
+  // Clock
+  function updateClock() {
+    const now = new Date();
+    const days = ['일', '월', '화', '수', '목', '금', '토'];
+
+    document.getElementById('clock-time').textContent =
+      now.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false });
+
+    document.getElementById('clock-date').textContent =
+      `${now.getFullYear()}년 ${now.getMonth() + 1}월 ${now.getDate()}일 (${days[now.getDay()]})`;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  // Tab switching
+  function switchTab(tabName) {
+    document.querySelectorAll('.news-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.news-panel').forEach(p => p.classList.remove('active'));
+    event.target.classList.add('active');
+    document.getElementById(`panel-${tabName}`).classList.add('active');
+  }
+
+  // 탭 키 → news_data.json 카테고리 이름 매핑
+  const tabToCategory = {
+    latest:     '최신 AI 뉴스',
+    chatgpt:    'ChatGPT/GPT',
+    llm:        'LLM',
+    research:   'AI 연구',
+    industry:   'AI 산업',
+    global:     'AI Global',
+    openai:     'OpenAI & GPT',
+    airesearch: 'AI Research',
+    techcrunch: 'TechCrunch AI',
+    theverge:   'The Verge AI',
+    wired:      'Wired AI',
+  };
+
+  function renderArticles(listId, articles) {
+    const list = document.getElementById(listId);
+    if (!articles || articles.length === 0) {
+      list.innerHTML = '<li class="news-loading">이 카테고리에 뉴스가 없습니다.</li>';
+      return;
+    }
+    list.innerHTML = '';
+    articles.forEach(a => {
+      const date = a.date ? new Date(a.date) : null;
+      const dateStr = date && !isNaN(date)
+        ? `${date.getMonth()+1}/${date.getDate()} ${date.getHours()}:${String(date.getMinutes()).padStart(2,'0')}`
+        : '';
+      const li = document.createElement('li');
+      li.className = 'news-item';
+      li.innerHTML = `
+        <a href="${a.link || '#'}" target="_blank">${a.title}</a>
+        ${a.source ? `<span class="news-source">${a.source}</span>` : ''}
+        <span class="news-date">${dateStr}</span>`;
+      list.appendChild(li);
+    });
+  }
+
+  // news_data.json에서 요약 + 뉴스 탭 모두 로드
+  let lastUpdated = null;
+
+  async function loadAllData() {
+    try {
+      const res = await fetch('news_data.json?' + Date.now());
+      const data = await res.json();
+
+      // 요약 표시
+      if (data.summary) {
+        const summaryEl = document.getElementById('summary-content');
+        summaryEl.style.color = '';
+        summaryEl.textContent = data.summary;
+        document.getElementById('summary-time').textContent = `마지막 업데이트: ${data.updated_at}`;
+        lastUpdated = data.updated_at;
+        updateUpdateBar(data.updated_at);
+      }
+
+      // 카테고리별 뉴스 탭에 표시
+      if (data.categories) {
+        const catMap = {};
+        data.categories.forEach(c => { catMap[c.name] = c.articles; });
+
+        Object.keys(tabToCategory).forEach(tab => {
+          const catName = tabToCategory[tab];
+          renderArticles(`news-${tab}`, catMap[catName] || []);
+        });
+      }
+    } catch (e) {
+      document.getElementById('update-time').textContent = '데이터 없음 - 수동 업데이트를 눌러주세요';
+      document.getElementById('update-dot').className = 'update-dot stale';
+      document.getElementById('summary-content').textContent = '뉴스 데이터가 없습니다. 수동 업데이트를 눌러주세요.';
+    }
+  }
+
+  function updateUpdateBar(timeStr) {
+    const dot = document.getElementById('update-dot');
+    const timeEl = document.getElementById('update-time');
+    const nextEl = document.getElementById('next-update');
+
+    timeEl.textContent = `마지막 업데이트: ${timeStr}`;
+
+    // Check freshness (10 min = 600000ms)
+    const parts = timeStr.match(/(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
+    if (parts) {
+      const updated = new Date(parts[1], parts[2]-1, parts[3], parts[4], parts[5]);
+      const diffMin = Math.floor((Date.now() - updated.getTime()) / 60000);
+
+      if (diffMin < 12) {
+        dot.className = 'update-dot';
+        const nextMin = 10 - (diffMin % 10);
+        nextEl.textContent = `다음 자동 업데이트: 약 ${nextMin}분 후`;
+      } else {
+        dot.className = 'update-dot stale';
+        nextEl.textContent = 'LM Studio가 꺼져 있을 수 있습니다';
+      }
+    }
+  }
+
+  // Manual refresh
+  async function manualRefresh() {
+    const btn = document.getElementById('refresh-btn');
+    btn.disabled = true;
+    btn.textContent = '업데이트 중...';
+
+    try {
+      const res = await fetch('http://localhost:1234/v1/models');
+      if (!res.ok) throw new Error('LM Studio offline');
+    } catch {
+      btn.textContent = 'LM Studio 꺼져있음';
+      setTimeout(() => { btn.disabled = false; btn.textContent = '수동 업데이트'; }, 3000);
+      return;
+    }
+
+    try {
+      // Trigger news_summary.py via local dashboard server
+      await fetch('http://localhost:8080/api/refresh');
+      btn.textContent = '요약 중... (약 30초)';
+
+      // Poll for updated data
+      const checkInterval = setInterval(async () => {
+        try {
+          const statusRes = await fetch('http://localhost:8080/api/status');
+          const status = await statusRes.json();
+          if (status.updated_at && status.updated_at !== lastUpdated) {
+            clearInterval(checkInterval);
+            await loadAllData();
+            btn.disabled = false;
+            btn.textContent = '수동 업데이트';
+          }
+        } catch {}
+      }, 3000);
+
+      // Timeout after 90 seconds
+      setTimeout(() => {
+        clearInterval(checkInterval);
+        btn.disabled = false;
+        btn.textContent = '수동 업데이트';
+        loadAllData();
+      }, 90000);
+    } catch {
+      // Fallback: just reload data
+      btn.textContent = '서버 없음 - 데이터 갱신';
+      setTimeout(async () => {
+        await loadAllData();
+        btn.disabled = false;
+        btn.textContent = '수동 업데이트';
+      }, 2000);
+    }
+  }
+
+  loadAllData();
+
+  // Auto-refresh dashboard every 60 seconds to pick up new data
+  setInterval(loadAllData, 60000);
+
+  // LM Studio status check
+  async function checkLMStudio() {
+    const dot = document.getElementById('status-lmstudio');
+    try {
+      const controller = new AbortController();
+      setTimeout(() => controller.abort(), 3000);
+      await fetch('http://localhost:1234/v1/models', { signal: controller.signal });
+      dot.className = 'status-dot online';
+      dot.title = '실행 중';
+    } catch {
+      dot.className = 'status-dot offline';
+      dot.title = '오프라인';
+    }
+  }
+  checkLMStudio();
+  setInterval(checkLMStudio, 30000);
+</script>
+</body>
+</html>
