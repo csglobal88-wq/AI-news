@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02 08:01",
+  "updated_at": "2026-03-02 08:15",
   "categories": [
     {
       "name": "최신 AI 뉴스",
@@ -149,31 +149,31 @@
       "name": "AI Global",
       "articles": [
         {
-          "title": "칼럼 | 실권자들이 인공지능을 탈취하다 - 뉴욕타임스",
+          "title": "논평 | 실권자들이 인공지능을 앗아간다 - 뉴욕타임스",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUgyMVNIUjdyaU95YUxEd0R3LUlKYWhmUFFBNnQ3WmR0aHNNM291aVJRV21RbFNQTU8zUW9pV1pqb1E0bVlWQlJ4a3BZR3hfV1M3UFdpM1RhTktXcjNORG9qZklraFJYdkJvUEM4NmRodlhlLWZEaFJRUGkxakVwVmk2eEhVVC1aVXNv?oc=5",
           "source": "The New York Times",
           "date": "Sat, 28 Feb 2026 12:00:05 GMT"
         },
         {
-          "title": "'큰 규모에서의 침묵 실패': 비즈니스 세계를 혼란에 빠뜨릴 수 있는 AI 리스크 - CNBC",
+          "title": "'대규모 침묵 실패': 비즈니스 세계를 혼란에 빠뜨릴 수 있는 AI 리스크 - CNBC",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVBtV1JXSjBRa3hVNEZjRWZVc3M5Mnc5V2QwMC1rV29nZHpGNnJ5cERzeWc3U0pnTU5DZ0g2THlxQkJoUUV1dkgtdk1UQ3lFWl9jQlAxSDBzb1QtSlQ2V1hmc1pBT2o0S2M5WktrVUEwckRla0U3eklKWGt4OVJnRmE1WERwbVZDQ2VsaVAzc9IBlAFBVV95cUxPSlY3MmR0MHAtTEhXU1RNZl91SEhUWndGcmw1UnpoTm5lNFRXZ0NRUXMtV2hIMUtDdG5DYjg2RjNBaHNBdTRIMnhRbDNQSHNoRXU0Z3d2ZDVJa2NEUnpCa3JiVVV0dTExQllZVXZmQzR1NTZJUVZfemFOVWo1b3JlUktDWTJJWU9nVXhHaGVZNFZYd3FX?oc=5",
           "source": "CNBC",
           "date": "Sun, 01 Mar 2026 14:00:01 GMT"
         },
         {
-          "title": "트럼프의 금지 명령에도 불구하고 미국 군이 이라크 공습에서 클로드를 사용했다고 보도 - 가디언",
+          "title": "트럼프의 금지령에도 불구하고 미국 군이 클로드를 이란 공습에서 사용했다고 보도 - 가디언",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkFZOVRMSVpYZEpSaTYycWsybjh5Uy1QdDV2UFJxeE4wMmc5UXdVWUpSdTZiTzBFb2VtejJrcmFScnJrWnF0THRnbW5xZlozOTMxTjRTYnlfX2VZYzdJbEIzTjZQNDRvOF9TZW12MTRpVS1UV1h6a2RtMWpadUVzcTg5YThmdW5POVh1RExkMlRUb3h5WnRv?oc=5",
           "source": "The Guardian",
           "date": "Sun, 01 Mar 2026 20:11:00 GMT"
         },
         {
-          "title": "오하이오 주 신문의 새로운 스타 작가. 인간은 아니다. - 워싱턴포스트",
+          "title": "오하이오 주의 한 신문은 새로운 스타 작가를 맞았다. 그런데 그는 인간이 아니다. - 워싱턴포스트",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkdULTBIamVJVTlMZWc5VXBRNlJ3YWd0WkhQQmxuZnlMVFdLdkdNNDAyRTRTd0FqS1dQVGZYM29OVlV5d0RZUUJLMkhBX1hZOWpSRFlBSi1BVTRoYWNNcm1nRm1MblBoeEtxMVBWckEtMGZnUGNwVnNfMkVuRzVBWW91VmxzQVItX3RxRXNkZ2VMdWZnQVlIekJFQmhxYTg?oc=5",
           "source": "The Washington Post",
           "date": "Sun, 01 Mar 2026 18:00:44 GMT"
         },
         {
-          "title": "인공지능에 대한 두려움이 현실로 변한 한 주, 미국이 준비되지 않았음을 깨달았을 때 - 포춘",
+          "title": "AI 공포가 현실이 된 한주: 미국이 다가올 것에 대비하지 못했음을 깨달았을 때 - 포춘",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMkVibDh0c1VPLWRqR2gzODZyMUFhb0x4NW9UZGZIVXd1MDlYVy1qbHV5U2NTM19KLUMzd0pET20tZ2ZmSG5GdHV4NFJDajVEd0c5amE0QU1nRWtEYXRfOXdfYnJUNnlObnhDVTZKMDRXdDhaV0FkTTM5Q0tBNFlWWHM2aE5FclhudnpYWjlrZ0dkemZISThJd05LMUJLUW5KNWgxSWRYbmlXa2lRMTdCYU9TX1YzczJuR01r?oc=5",
           "source": "Fortune",
           "date": "Sat, 28 Feb 2026 10:05:00 GMT"
@@ -202,13 +202,13 @@
           "date": "Mon, 02 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "오픈AI, 챗GPT 모델들 해고를 2주 만에 발표 - theregister.com",
+          "title": "오픈AI, 챗GPT 모델들 해지 통보…예고 기간은 겨우 2주 - theregister.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85cWw5WWw2Mk95TnY2MGM3N2ZFbldYX1dpUWpoalFvYXhMelk2NDNwZU8xakV1WE9WMkhvVUxiYzYyMWgycDFKeFpqQ2ZRYWtCZ3N0WGQ4cUczSlloaDlBdWtWTm55NWM5RHNvWGpwY00?oc=5",
           "source": "theregister.com",
           "date": "Fri, 30 Jan 2026 08:00:00 GMT"
         },
         {
-          "title": "독점 보도: 오픈AI, 챗GPT 광고 최소 20만 달러 의무화 - ADWEEK",
+          "title": "독점 보도: 오픈AI, 챗GPT 광고 최소 20만 달러 의무 투자 확정 - ADWEEK",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOamVZN2ZGV2F0YktxMndjN3g5MWN1Z29sRGJwcm5PQ3lDZGlQLWlzVmlMRy1ucVhOTW1CN05Ub3ZPdnU0RGRvcVpGMHBUekdXX2tjVHFRS2V4YmRWVWlaaU5meGRGVXRYdGlGRHRnYlkzTHZLdzh0UThaY3VnbDhYYk1qTWM0cGdDMk5USVd1ejY0YU95dE40MW05RTFfUQ?oc=5",
           "source": "ADWEEK",
           "date": "Sat, 31 Jan 2026 08:00:00 GMT"
@@ -231,7 +231,7 @@
           "date": "Fri, 07 Nov 2025 08:00:00 GMT"
         },
         {
-          "title": "구글 신규 AI 연구, LLM 정확도 향상과 총 추론 비용 절반 감소를 위해 심층 사고 비율 제안 - MarkTechPost",
+          "title": "구글 AI 연구팀, LLM 정확도를 향상시키고 총 추론 비용을 절반으로 줄이는 '심층 사고 비율' 제안 - MarkTechPost",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOajhqQjZ4WUJReTFNNjhXdWVaX19fN18zNHBtYUN4MHBBU3Qwd0ROUFhjVWtUanlvUEF1ODBDb0FsemtETWJqdVlTMmNqQUlWVDBEMFRzVi13TVlZbnk2U1NRSkFvR1BHdVBpd3lGTmFrQmRieS1rOEtTOVRRZ0FqNllQOGdLT0piWFBuZEttWElIQ0FmcVpRNk53TmtmcWZZMng0b0dwcHFiNTM2UkpwWDZJNXg2UXZlemRvZGp5S2M1V1BJSUhiajFUQmNxVHdRQ1RmMl9vZnlmbW5Vd2JvZUdybVc5eG9nV0JMVWM3TWVKYXVO0gH6AUFVX3lxTE5OMU1nX2JMX1ZrMjBGSkhmQnRSQTFfbDNaWG5wbjFKYWpxZ0UzZHRvaURIanB2aVN4SEFrOUIzZU1DN1ZuOWF0czZSczRsRmJ0UVJSN0gwVnNXczNDOTFiUDZjZGRYb0dUWVlVRFJPLXNPZGVwcG1iQ1p2X1kwd0JJbkpKbzJ5LUtKdWtWVm9FblhmV2VJRmk5U3BZRk9FNGFvdlJMU1AyRFhNdjBqRnpJdlpob3FqYVE3T2pwUzRodThDQ2h4SFpsNXNmSXp2UnZoWF9IWmI5b0s3OE5kdDNFWXlsNDg0ay15ZzVSN1dXa3ItS25OOGs3dFE?oc=5",
           "source": "MarkTechPost",
           "date": "Sun, 22 Feb 2026 04:53:19 GMT"
@@ -254,7 +254,7 @@
       "name": "TechCrunch AI",
       "articles": [
         {
-          "title": "구글, 인도 RCS 스팸 문제 해결을 위해 혼자서가 아닌 다른 기업들과 협력",
+          "title": "구글, 인도 RCS 스팸 문제 해결을 위해 협력 방안 모색 중",
           "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
           "source": "TechCrunch AI",
           "date": "Sun, 01 Mar 2026 17:30:00 +0000"
@@ -289,34 +289,34 @@
       "name": "The Verge AI",
       "articles": [
         {
-          "title": "방위부 장관 페트 헤그세스가 안תרופ릭을 공급망 위험으로 지정하다.",
+          "title": "로봇 팔에 달린 강아지 눈 모양은 레노버의 새로운 데스크톱 인공지능 개념 중 하나입니다.",
+          "link": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+          "source": "The Verge AI",
+          "date": "2026-02-28T12:34:28-05:00"
+        },
+        {
+          "title": "방위부 장관 페트 헤그세스가 안תרופ릭을 공급망 위험으로 지정",
           "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
           "source": "The Verge AI",
           "date": "2026-03-01T13:29:53-05:00"
         },
         {
-          "title": "트럼프, 연방 기관에 안תרופ릭의 인공지능 사용 중단 명령하다.",
+          "title": "트럼프, 연방 기관들에게 안תרופ릭 AI 사용 중단 명령",
           "link": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
           "source": "The Verge AI",
           "date": "2026-02-27T16:33:59-05:00"
         },
         {
-          "title": "AI 대 합참: 살인 로봇, 대규모 감시, 그리고 경고선",
+          "title": "AI 대 합참: 살인 로봇, 대량 감시 및 경고선",
           "link": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
           "source": "The Verge AI",
           "date": "2026-03-01T09:58:21-05:00"
         },
         {
-          "title": "우리가 감독되지 않은 살인 로봇을 가질 필요는 없다.",
+          "title": "우리는 감독되지 않은 살인 로봇을 가질 필요가 없습니다.",
           "link": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
           "source": "The Verge AI",
           "date": "2026-02-27T18:15:52-05:00"
-        },
-        {
-          "title": "갤럭시 S26은 사진 촬영 악몽이다.",
-          "link": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
-          "source": "The Verge AI",
-          "date": "2026-02-27T10:15:52-05:00"
         }
       ]
     },
@@ -324,31 +324,31 @@
       "name": "Ars Technica",
       "articles": [
         {
-          "title": "구글이 양자 증명 HTTPS를 통해 15kB의 데이터를 700바이트 공간에 압축하다.",
+          "title": "구글이 양자 암호화로 HTTPS를 보호하며 15kB의 데이터를 700바이트 공간에 압축",
           "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
           "source": "Ars Technica",
           "date": "Sat, 28 Feb 2026 01:26:41 +0000"
         },
         {
-          "title": "새로운 공기스니치 공격이 가정, 사무실 및 기업에서 Wi-Fi 암호화를 우회하다.",
+          "title": "새로운 공기 스니치 공격이 집, 사무실 및 기업에서 Wi-Fi 암호화를 우회",
           "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
           "source": "Ars Technica",
           "date": "Thu, 26 Feb 2026 15:45:18 +0000"
         },
         {
-          "title": "패스워드 매니저들이 당신의 보관함을 볼 수 없다고 약속하는 것이 항상 사실은 아니다.",
+          "title": "패스워드 매니저들이 당신의 보관함을 볼 수 없다고 약속하는 것이 항상 사실은 아닙니다.",
           "link": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
           "source": "Ars Technica",
           "date": "Tue, 17 Feb 2026 20:43:01 +0000"
         },
         {
-          "title": "대부분의 VMware 사용자들은 여전히 \"VMware 사용량을 줄이고 있다\" - 조사 결과",
+          "title": "대부분의 VMware 사용자들은 여전히 \"VMware 사용량을 줄이고 있습니다\", 설문조사 결과 발표",
           "link": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
           "source": "Ars Technica",
           "date": "Tue, 17 Feb 2026 18:38:10 +0000"
         },
         {
-          "title": "철회: 일상적인 코드 거부 후, AI 에이전트가 특정 사람에 대해 히트피스를 게재하다.",
+          "title": "철회: 일상적인 코드 거부 후, AI 에이전트는 특정 사람에 대한 악성 기사 발행",
           "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
           "source": "Ars Technica",
           "date": "Fri, 13 Feb 2026 19:40:21 +0000"
@@ -359,7 +359,7 @@
       "name": "MIT Tech Review",
       "articles": [
         {
-          "title": "MIT Technology Review가 2026년 ASME 최종 후보에 올랐습니다.",
+          "title": "MIT Technology Review가 2026년 ASME 보도 부문 후보에 올랐습니다.",
           "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
           "source": "MIT Tech Review",
           "date": "Fri, 27 Feb 2026 21:41:31 +0000"
@@ -371,7 +371,7 @@
           "date": "Fri, 27 Feb 2026 13:10:00 +0000"
         },
         {
-          "title": "인공지능은 세계 최고의 고(Go) 플레이어들의 사고방식을 다시 짜고 있습니다.",
+          "title": "인공지능은 세계 최고의 고(Go) 선수들의 사고방식을 다시 짜고 있습니다.",
           "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
           "source": "MIT Tech Review",
           "date": "Fri, 27 Feb 2026 10:00:00 +0000"
@@ -383,7 +383,7 @@
           "date": "Thu, 26 Feb 2026 15:00:59 +0000"
         },
         {
-          "title": "다운로드: 미국이 외계 생명체 탐색에서 선두를 잃은 이유, 그리고 야심 찬 배터리 주장들",
+          "title": "다운로드: 미국이 외계 생명체 탐색에서 우위를 잃은 이유, 그리고 야심 찬 배터리 클레임들",
           "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
           "source": "MIT Tech Review",
           "date": "Thu, 26 Feb 2026 13:10:00 +0000"
@@ -447,13 +447,13 @@
           "date": "Fri, 27 Feb 2026 19:07:28 +0000"
         },
         {
-          "title": "월스트리트, 인공지능에 대한 집착 상태.",
+          "title": "월스트reet, 인공지능에 열병 상태.",
           "link": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
           "source": "Wired AI",
           "date": "Fri, 27 Feb 2026 16:00:00 +0000"
         },
         {
-          "title": "힉스는 인공지능으로 개인 맞춤형 일일 오디오 요약 제공.",
+          "title": "힙스는 인공지능으로 개인 맞춤형 일일 오디오 요약 제공.",
           "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
           "source": "Wired AI",
           "date": "Fri, 27 Feb 2026 12:00:00 +0000"
@@ -461,5 +461,5 @@
       ]
     }
   ],
-  "summary": "### 국내 동향\n\n**AI 신뢰성 인증 및 인재 확보**: 한국표준협회가 'AI+ 신뢰성 인증'을 발족하며 AI 기술의 품질과 안전성을 강조하고 있다. 또한, 정부는 AI 과학기술 분야 박사후연구원 400명을 임용해 인재 확보에 나서고 있어, 한국의 AI 산업 경쟁력이 한층 강화될 전망이다.\n\n**크래프톤의 AI 전략**: 크래프톤은 '최고 인공지능 책임자(CAIO)'를 신설하고 이강욱 본부장을 선임하며 AI 연구개발 고도화에 박차를 가하고 있다. 게임과 로보틱스 분야에서 AI 기술의 융합이 주목받고 있으며, 크래프톤은 이를 통해 차별화된 경쟁력을 확보할 것으로 예상된다.\n\n### 해외 동향\n\n**오픈AI의 투자 및 성장**: 오픈AI는 아마존과 손잡고 159조원 규모의 역대 최대 투자를 유치하며 몸값이 1000조원에 달하는 초거대 기업으로 부상했다. 챗GPT와 관련된 논란에도 불구하고, 오픈AI는 지속적인 성장을 이어가고 있다.\n\n**글로벌 AI 규제 움직임**: GDPR 이후 최대 규제 시행이 임박하면서 한국의 AI 기업들은 윤리 조직 부재로 인해 비상 상황에 직면하고 있다. 미국에서는 트럼프 행정부의 금지 명령에도 불구하고 클로드가 이라크 공습에서 사용되며, 안תרופ릭 또한 방위부 논쟁 후 앱스토어 1위를 기록했다.\n\n### 기술 트렌드\n\n**AI 모델 및 도구 발전**: 구글의 AI 플러스 요금제 출시와 함께 GPT-5.3-Codex-Spark, 프리즘 등 새로운 AI 모델과 도구들이 시장에 등장하고 있다. 또한, 중첩 학습(Nested Learning)과 심층 사고 비율(DTR)이 LLM의 정확도 향상 및 추론 비용 절감을 가능하게 하고 있다.\n\n**AI 윤리와 리스크**: 챗GPT 보이콧 운동이 70만 명 이상에 달하며 오픈AI 시장이 흔들리고 있다. AI의 침묵 실패나 큰 규모에서의 문제 복잡성 등도 비즈니스 세계를 혼란에 빠뜨릴 수 있는 리스크로 부각되고 있다.\n\n### 산업 전망\n\n**AI와 산업 융합**: 크래프톤은 AI를 게임과 로보틱스 분야에서 융합하며 새로운 가치 창출을 모색하고 있다. 또한, 네오클라우드 등 글로벌 AI 투자가 몰리며 한국 스타트업들도 도전장을 내밀고 있어, 산업 전반에 걸쳐 AI 혁신이 가속화될 것으로 예상된다.\n\n**AI 인프라 경쟁**: 오픈AI와 구글 등 글로벌 기업들이 AI 인프라 경쟁에서 앞다퉈 투자를 늘리며, 이는 AI 기술의 발전과 함께 산업 전반에 걸쳐 혁신이 가속화될 것으로 보인다."
+  "summary": "### 국내 동향\n\n**AI 신뢰성 인증 및 산업 확장**: 한국표준협회가 'AI+ 신뢰성 인증'을 발족하며 AI 기술의 투명성을 강조하고 있다. 크래프톤은 이강욱 신임 CAIO(최고 인공지능 책임자)를 선임해 AI 연구개발 고도화에 나서고 있다. 구글과 어도비 등 글로벌 기업들이 한국 시장에서도 AI 서비스 확대를 본격화하고 있어, 국내 기업들의 경쟁이 가속화되고 있다.\n\n**AI 인재 확보 및 정책**: 동아사이언스는 'AI+과학기술 인재 확보'를 위해 박사후연구원 400명을 임용 완료했다. 이는 AI 산업의 지속 가능한 성장을 위한 핵심 자원으로 평가된다.\n\n---\n\n### 해외 동향\n\n**오픈AI의 급성장 및 투자 유치**: 오픈AI는 160조원 규모의 역대 최대 투자를 유치하며 몸값이 1000조원으로 평가받고 있다. 이는 GPT-5와 Codex, Spark 등 새로운 모델 출시로 인한 성공적인 비즈니스 전략의 결과다. 그러나 ChatGPT 보이콧 운동이 확산되며 시장에 일정한 불안 요소를 남겼다.\n\n**AI 윤리 및 규제**: GDPR 이후 최대 규제 시행이 임박하며, AI 기업들은 윤리 조직을 구축해야 할 필요성이 제기되고 있다. 특히 OpenAI의 내부 거래 혐의로 인해 직원 해고가 이루어지며, 투명성과 책임감에 대한 논란이 커지고 있다.\n\n---\n\n### 기술 트렌드\n\n**대형 언어 모델(Large Language Model) 발전**: 구글 AI 연구팀은 LLM 정확도를 높이고 추론 비용을 절반으로 줄이는 '심층 사고 비율'을 제안했다. 이는 AI의 효율성과 경제성을 동시에 향상시키는 중요한 기술적 진전이다.\n\n**중첩 학습(Nested Learning)**: Google Research가 지속적 학습을 위한 새로운 ML 패러다임인 중첩 학습을 소개했다. 이는 모델이 시간이 지남에 따라 더욱 정확하고 유연하게 학습할 수 있도록 설계된 기술로, AI의 적용 범위를 확장하는 데 중요한 역할을 할 것으로 예상된다.\n\n---\n\n### 산업 전망\n\n**AI와 로보틱스 융합**: 크래프톤은 첫 CAIO(최고 인공지능 책임자)를 선임하며 게임과 로봇 기술의 융합을 본격화하고 있다. 이는 AI가 단순한 도구에서 산업 전반에 걸쳐 혁신적인 변화를 가져올 가능성을 보여준다.\n\n**글로벌 경쟁 가속**: 글로벌 AI 투자 시장은 네오클라우드 등 새로운 플레이어의 도전으로 더욱 치열해지고 있다. 특히 오픈AI와 아마존의 협력은 AI 기술의 발전과 함께 시장 지배력을 강화하는 중요한 전략적 움직임이다.\n\n**윤리 및 규제 문제**: ChatGPT 보이콧 운동과 GDPR 이후 규제 시행 등으로 인해, AI 기업들은 윤리적 사용과 데이터 관리를 더욱 중요하게 여겨야 할 필요성이 제기되고 있다."
 }
