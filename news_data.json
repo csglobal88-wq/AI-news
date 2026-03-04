@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05 04:08",
+  "updated_at": "2026-03-05 04:21",
   "categories": [
     {
       "name": "최신 AI 뉴스",
@@ -97,16 +97,16 @@
           "date": "Sun, 31 Aug 2025 07:00:00 GMT"
         },
         {
+          "title": "크래프톤, 이강욱 신임 CAIO 선임 - 뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vVGthbHA2aWItOTQ0aHE1ZGowcU15WXo3T1FMckJqcjl2X2VSYVpvNXN5OVdPN01iZE4tU2tqYXRKN0tMSEJPLWE2MDdVVE5PZlZndHVDUU9xeDVRWUE?oc=5",
+          "source": "뉴스투데이",
+          "date": "Mon, 23 Feb 2026 01:04:00 GMT"
+        },
+        {
           "title": "[평양 사이언스] 북한, 산림과학 분야에도 AI 기술 도입 - SPN 서울평양뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcVFKN3U3SlUydGJ3Q3ZvbTM5U1FSejd2QVgycXJ0WEphUkd2LVZWUWxwbmMyYmtsRWowUWhUN0xJam5sSUpxRVBwd0NXNU1Fd0FXbnk5U3ZJb181WDZPV1RLcldDX1FzV3Vr?oc=5",
           "source": "SPN 서울평양뉴스",
           "date": "Tue, 13 Jan 2026 08:00:00 GMT"
-        },
-        {
-          "title": "크래프톤, 이강욱 신임 CAIO 선임 - 네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeUFINFE1VnVfZVBxX0NySHBJeWdjTUdLSndDd2FQeDF4M3dEbWctbThjSUdGRjVwcVFXZG5OZmt2Z2lmbjNvVnhMRlJLdlVJTWVZ?oc=5",
-          "source": "네이트",
-          "date": "Mon, 23 Feb 2026 06:50:00 GMT"
         }
       ]
     },
@@ -149,25 +149,25 @@
       "name": "AI Global",
       "articles": [
         {
-          "title": "아버지, 구글 인공지능 제품이 아들 광신 상태를 악화시켰다며 소송 제기 - BBC",
+          "title": "아버지, 구글 인공지능 제품이 아들 광기 증폭시켰다 - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkZXZGMm1sWWVFc016SW5IN2Yycm42ZWpiNUE4MllFTUQyR2VzVVcyNE1tUXhjN0ZCMjZicTZqNUd5eF9UM0VWZEdUaGVVTTh2V2pBYWhSUHRvZw?oc=5",
           "source": "BBC",
           "date": "Wed, 04 Mar 2026 18:55:45 GMT"
         },
         {
-          "title": "소식통, 안瑟프릭틱의 클로드 AI가 이란 전쟁에서 미국 군사에 사용되고 있다고 밝혀 - CBS 뉴스",
+          "title": "소식통, 안瑟프릭트의 클로드 AI가 미국 군부가 이란 전쟁에서 사용 중이라고 밝혀 - CBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41S2MtcU1sXzBrQ2dfQlFlSDY4R0NwMEExT0dUQXA5bE5tZzFxSXBlMFVjbFlycmpBOU9XUzBKT1V4U182SDFYb3ZlblZCNDkwQWR5LVkxOW5wUWZaX3dTVVUzVFpVUEFWREMtZVJGVdIBdEFVX3lxTE9fVnZkLUxNSC1rLXVib0FtVWJja1FibmtzX1lfbzVVTzdhbzZXempBNWEySVRVeDhNRHE2eGhMOElaTlc4VWpQc0tKU3d4ekV4a2xDdENRQnI3M08zTmdCTDVHclZoRDhFalZJcnhzbEtfU1Q0?oc=5",
           "source": "CBS News",
           "date": "Tue, 03 Mar 2026 17:27:00 GMT"
         },
         {
-          "title": "자殺을 시킨 혐의로 구글이 Gemini 챗봇으로 인해 소송을 당하다 - 더 가디언",
+          "title": "자殺을 시킨 혐의로 구글에 소송 제기, 지미니 챗봇이 남성에게 자살하라고 지시했다고 주장 - 더 가디언",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRloxbmpMTXRvSFUzSHhLNHhoLWhiUHhXbkJXeVZ0dkRGVnJkUnZEUUFfdnRxblViV3ZUdzN1d3llZXB6V3JwcE9sWHhUOERySlBobkpfZzNoMGJsVWFVTUQ3MlA5RTNNME1HWEF6Q0kzcS1TSi12cHQ3QlBxTm14NklPUVF0U0RydWRWekVtcHR0OVk?oc=5",
           "source": "The Guardian",
           "date": "Wed, 04 Mar 2026 16:18:00 GMT"
         },
         {
-          "title": "기차는 이미 출발했다: 대리적 AI와 사회과학 연구의 미래 - Brookings",
+          "title": "기차가 역을 떠났다: 대리인 인공지능과 사회과학 연구의 미래 - Brookings",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkppY0RRTmozU0NiYzBxbWs2THVpVXJsMHVqQUN1MUxnSldaUlRxdWZTT1JqQlNRbFMtdHUwZndHc2xzWmZJdklrX2wtbWI2RXFDZ1JUSnJxbDhXS0dzQ3VicG0yajBPX0ZFNUxOelV3VmVNTk1HR3JmaTVFZVMycXY4SmZ1WUFtaVlhc2dGYlJLZmVaSVVUYzFYOE5pVmhlcXNiRVdpLWh2emFMb1U3d18wWWxsRzFqcS13?oc=5",
           "source": "Brookings",
           "date": "Mon, 02 Mar 2026 08:00:00 GMT"
@@ -184,31 +184,31 @@
       "name": "OpenAI & GPT",
       "articles": [
         {
-          "title": "GPT-5.3 Instant: 매끄럽고 유용한 일상 대화 - 오픈AI",
+          "title": "GPT-5.3 Instant: 매끄럽고 유용한 일상 대화 - OpenAI",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14b1NfNV9zUUE3MlhxSzVNYlhFa1hERmZnak9pV25RM0VkY2YtYWwwbW54N29jbHdaTmgzZE1LNld4SnlGUVhFU0tTSlZZV3pOR21B?oc=5",
           "source": "OpenAI",
           "date": "Tue, 03 Mar 2026 00:02:31 GMT"
         },
         {
-          "title": "엄청난 수의 사람들이 ChatGPT를 삭제하다, 반 오픈AI 감정 급증 - 퓨처리즘",
+          "title": "엄청난 수의 사람들이 ChatGPT를 삭제, 반 오픈 AI 감정 급증 - Futurism",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1ZnMjdWQlBUbHZiTmd4c01QVFBLS2JNUkQwRmZCWXJvVk1SVkxXRllPZWwyc2VtWG9ub00yWHpHbjRzZERUeXFfNjY2MDBtWjVEMDUtZVFkRkdqc01Hd0huLVB5ckRYN3hCVEFheVMxQWFxWmljRk1McjQyYlVBM1d6MjdXYVk?oc=5",
           "source": "Futurism",
           "date": "Tue, 03 Mar 2026 20:03:44 GMT"
         },
         {
-          "title": "사용자들이 ChatGPT를 버리고 클로드로 전환하고 있다 - 테크크런치",
+          "title": "사용자들이 ChatGPT를 버리고 클로드로 전환하고 있다 - TechCrunch",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmYzemkybHVNcld5SXprY1JzMTdpQ1JldlBKM1E2MWhQSmJESHJHWXhZaVphUHZsaklXY2tHRzFJSFR3Umc3aVpTVVUxX25YWEw4VDFTMG81bXhLc0V4V1hEODdMZGswWC02WEduOUhqaU9Ga21zLXRfd3NPR2pXQ09lQS1xQUlGV3BWX3VnaHVNd0FYOV9BUlNIUHRrRGVucEw4?oc=5",
           "source": "TechCrunch",
           "date": "Mon, 02 Mar 2026 18:42:11 GMT"
         },
         {
-          "title": "'ChatGPT 취소': 오픈AI-펜타곤 군사 계약 후 AI 불매운동 급증 - 유로 نيوز",
+          "title": "'ChatGPT 취소': 오픈AI-펜타곤 군사 계약 후 인공지능 불매운동 증가 - Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkFyaF8wMUZfWWZab2czcG5DZGFEd2dneHI1ZFBXN2tkUjFfRVg5TnhOeWQ5RkVDVmViS2k2TVJnMWRaaFpjaXhXSzljR0xwZGpQOXNRcUlBSlV5R0k1WGV5ZzAzeUtUanlxTHhuWHY4RVg1V0Z5UmxnQTdXUEVOWmZVTFd1UlBlZm8yRDI2VHk5Ym9mVU1jV2V4QXpYT21mNGJ4MjlMdDNUZHBSN3c?oc=5",
           "source": "Euronews.com",
           "date": "Mon, 02 Mar 2026 10:51:44 GMT"
         },
         {
-          "title": "오픈AI, ChatGPT를 덜 '기침'하게 만들기 위해 GPT-5.3 Instant 업데이트 발표 - 9to5Mac",
+          "title": "OpenAI, ChatGPT를 덜 '기겁'하게 만들기 위해 GPT-5.3 Instant 업데이트 발표 - 9to5Mac",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlRyYThJX25IV25BdllsWkRRZnNLcVVpdGVjazJPWGM0T0RhbjBfNHZhVEJxUW9GSWJQNHN4bGI5OUdFZ0FSekxtSFROX1hCNVlmMGlpTllDVjJ3MUJlY1Y5cjA2YjZldk9TWVBIZG9SUFd1bnhHMkRVYkxEemF1ZWprSVJsUldLTnZLNk9OeklWd3JhTVVMdld2M0FRV0k?oc=5",
           "source": "9to5Mac",
           "date": "Tue, 03 Mar 2026 18:19:00 GMT"
@@ -219,25 +219,25 @@
       "name": "AI Research",
       "articles": [
         {
-          "title": "CHIMERA 데이터셋이 LLM 추론 능력을 향상시키다 - StartupHub.ai",
+          "title": "CHIMERA 데이터셋이 LLM 추론을 강화하다 - StartupHub.ai",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OGxWZkRvcmdXTnpwZ1ZvZFpzNmZfYmI5NjRPY0g4aWVFTmJWZjI0M3ljUXZEUGx5NGNmYTZlSXk0dEk0Z0hodTVTcU1NM3VMQ291V3k0bHl3UklOSG5UZmVINnNqclhHQkpyNEp0ZXVnVkF2Z2c?oc=5",
           "source": "StartupHub.ai",
           "date": "Wed, 04 Mar 2026 00:41:28 GMT"
         },
         {
-          "title": "오픈소스 AI 도구가 거대 LLM들을 리뷰 분석에서 이긴다 - Nature",
+          "title": "오픈소스 AI 도구가 거대한 LLM들을 리뷰 분석에서 이긴다 - Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LLUg0Qk1NTS1WYXVtOEgwWDBBckxOZnBGZENvcC1GZkluaW1hX1FsdzJleXBUU2ppNjBhRlhnOFVBc0c0blZydkxtTU90Ymw4LVNjbllMUzRaVUZ4d0Nn?oc=5",
           "source": "Nature",
           "date": "Wed, 04 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "중첩 학습을 소개합니다: 지속적 학습을 위한 새로운 ML 패러다임 - Google Research",
+          "title": "중첩 학습 소개: 지속적 학습을 위한 새로운 ML 패러다임 - Google Research",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXE4VWRhb3VlQ0hfRkRzTjMyb2FJTzdZZm1DVlNzZm9DbG5zc1RCa3ktd3VfOTRscnhSZXZvSkN5UnhoT1E5YTgxVl9xdTRMUzlmZzQ4WUJiQk0zOS1LT090c1lIQUFxeTE1bTEyZUd1TUlhdGNVZGg0MTFfRVdHb1lIQ0xOYVZ2bHpSRDFfaVluWHZFbENXUFN1VG9TTkU?oc=5",
           "source": "Google Research",
           "date": "Fri, 07 Nov 2025 08:00:00 GMT"
         },
         {
-          "title": "생각의 착시: 문제 복잡성 관점에서 추론 모델의 강점과 한계 이해하기 - Apple Machine Learning Research",
+          "title": "사고의 착시: 문제 복잡성 관점에서 추론 모델의 강점과 한계 이해하기 - Apple Machine Learning Research",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42SXFaQkRiT1YwQ2lVeXFRazFKcER4ZmhlRFBqYkU5ZzhRY09VR01UeHFGclFEc0ZjOWI4bkp3andkX1hIODVjS29NSHpZMlRZWkpUcG84NGNQdEpqQUw5OEZKVlZ3Wl91aUxpRDdFME4?oc=5",
           "source": "Apple Machine Learning Research",
           "date": "Thu, 05 Jun 2025 21:09:43 GMT"
@@ -272,13 +272,13 @@
           "date": "Wed, 04 Mar 2026 17:20:01 +0000"
         },
         {
-          "title": "아버지, 자녀의 치명적 착각을 유도했다며 구글과 제미니 챗봇을 상대로 소송 제기",
+          "title": "아버지, 구글을 상대로 소송 제기…자녀의 죽음에 Gemini 챗봇 책임 추궁",
           "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
           "source": "TechCrunch AI",
           "date": "Wed, 04 Mar 2026 14:58:36 +0000"
         },
         {
-          "title": "신생기업이 제공하는 더 신뢰할 수 있는 AI 답변: 챗봇에 대한 크라우드소싱",
+          "title": "신생기업이 제공하는 더 신뢰할 수 있는 AI 답변: 챗봇 민중화",
           "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
           "source": "TechCrunch AI",
           "date": "Wed, 04 Mar 2026 14:00:00 +0000"
@@ -289,34 +289,34 @@
       "name": "The Verge AI",
       "articles": [
         {
-          "title": "구글이 텔레마틱스 시스템 '제미니'가 남성에게 자살을 유도했다며 소송에 직면하다",
+          "title": "구글의 인공지능 지원 워크스페이스가 검색에서 더 많은 사용자에게 제공됩니다.",
+          "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+          "source": "The Verge AI",
+          "date": "2026-03-04T13:57:01-05:00"
+        },
+        {
+          "title": "지미니가 남자를 자살하도록撺射<|im_start|> limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg limburg",
           "link": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
           "source": "The Verge AI",
           "date": "2026-03-04T12:13:45-05:00"
         },
         {
-          "title": "인공지능은 이제 문화 전쟁과 실제 전쟁의 일부다",
+          "title": "AI is now part of the culture wars — and real wars",
           "link": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
           "source": "The Verge AI",
           "date": "2026-03-04T11:26:12-05:00"
         },
         {
-          "title": "레이캐스트의 글레이즈는 일체형 감성 코딩 앱 플랫폼이다",
+          "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
           "link": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
           "source": "The Verge AI",
           "date": "2026-03-04T08:08:17-05:00"
         },
         {
-          "title": "AI 정치 저항을 이끈 비밀 회의 내부 이야기",
+          "title": "Inside the secret meeting that led to the AI political resistance",
           "link": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
           "source": "The Verge AI",
           "date": "2026-03-04T08:15:43-05:00"
-        },
-        {
-          "title": "구글 최신 펩셀 드롭으로 제미니가 당신 behalf로 식료품 주문 가능",
-          "link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
-          "source": "The Verge AI",
-          "date": "2026-03-03T14:16:59-05:00"
         }
       ]
     },
@@ -324,7 +324,7 @@
       "name": "Ars Technica",
       "articles": [
         {
-          "title": "다운디텍터, 스피드테스트 12억 달러에 IT 서비스 제공업체인 액센추어卖给",
+          "title": "Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal",
           "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
           "source": "Ars Technica",
           "date": "Tue, 03 Mar 2026 22:20:06 +0000"
@@ -383,7 +383,7 @@
           "date": "Tue, 03 Mar 2026 13:30:00 +0000"
         },
         {
-          "title": "이 스타트업은 번개를 막고 대재앙 산불을 예방할 수 있다고 주장합니다",
+          "title": "이 스타트업은 번개를 막고 초대형 산불을 예방할 수 있다고 주장합니다",
           "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
           "source": "MIT Tech Review",
           "date": "Tue, 03 Mar 2026 10:00:00 +0000"
@@ -394,7 +394,7 @@
       "name": "VentureBeat AI",
       "articles": [
         {
-          "title": "철도가 AWS에 맞서 인공지능 네이티브 클라우드 인프라를 구축하기 위해 1억 달러를 확보하다",
+          "title": "철도가 AWS와 인공지능 네이티브 클라우드 인프라를 경쟁하기 위해 1억 달러를 확보하다",
           "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
           "source": "VentureBeat AI",
           "date": "Thu, 22 Jan 2026 14:00:00 GMT"
@@ -406,19 +406,19 @@
           "date": "Mon, 19 Jan 2026 14:00:00 GMT"
         },
         {
-          "title": "리스닝 랩스가 바이럴 보드illac 채용 광고 후 AI 고객 인터뷰를 위한 자동화 시스템을 확장하며 69백만 달러 유치",
+          "title": "리스닝 랩스가 AI 고객 인터뷰를 위한 바이럴 보드 광고 채용 프로모션 후 69백만 달러 확보",
           "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
           "source": "VentureBeat AI",
           "date": "Fri, 16 Jan 2026 14:01:00 GMT"
         },
         {
-          "title": "세일즈포스가 사내 인공지능 경쟁에서 마이크로소프트와 구글과 맞서 새로운 슬랙봇 AI 에이전트 출시",
+          "title": "세일즈포스가 사내 인공지능 경쟁에서 마이크로소프트와 구글과 맞서기 위해 새로운 슬랙봇 AI 에이전트를 출시하다",
           "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
           "source": "VentureBeat AI",
           "date": "Tue, 13 Jan 2026 13:00:00 GMT"
         },
         {
-          "title": "안תרופ닉, 코드 없이 파일 작업을 돕는 데스크톱 에이전트 Cowork를 발표",
+          "title": "안תרופ닉, 코드 데스크톱 에이전트 Cowork을 출시: 파일 작업 시 코드 작성 없이도 가능",
           "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
           "source": "VentureBeat AI",
           "date": "Mon, 12 Jan 2026 11:30:00 GMT"
@@ -429,31 +429,31 @@
       "name": "Wired AI",
       "articles": [
         {
-          "title": "미chief design officer 조 Gebbia가 사용하는 그 신비로운 � precious metal 장치는 무엇인가요?",
+          "title": "미chief design officer 조 Gebbia가 사용하는 그 신비로운 � precious metalic 기기是什么呢？",
           "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
           "source": "Wired AI",
           "date": "Tue, 03 Mar 2026 01:06:01 +0000"
         },
         {
-          "title": "전화 통화 중 AI 에이전트의 wake word를 말해 호출하세요.",
+          "title": "전화 통화 중 AI 에이전트를 깨우는 말을 불러요",
           "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
           "source": "Wired AI",
           "date": "Tue, 03 Mar 2026 00:25:44 +0000"
         },
         {
-          "title": "데이터 센터들이 북극 원점 가장자리에 도달했습니다.",
+          "title": "데이터 센터들이 북극 원반의 가장자리에 도달하다",
           "link": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
           "source": "Wired AI",
           "date": "Mon, 02 Mar 2026 10:00:00 +0000"
         },
         {
-          "title": "미국 군사가 '공급망 위험'이라고 규정하자 Anthropic, 반격 나서",
+          "title": "미국 군사가 '공급망 위험'이라고 규정한 후 Anthropic 반격하다",
           "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
           "source": "Wired AI",
           "date": "Sat, 28 Feb 2026 03:30:41 +0000"
         },
         {
-          "title": "트럼프, Anthropic을 미국 정부에서 금지시키다",
+          "title": "트럼프, Anthropic를 미국 정부에서 금지하다",
           "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
           "source": "Wired AI",
           "date": "Fri, 27 Feb 2026 21:36:31 +0000"
@@ -461,5 +461,5 @@
       ]
     }
   ],
-  "summary": "### 국내 동향\n\n한국에서는 AI와 통신의 융합이 주목받고 있다. 노키아가 'AI-RAN'으로 통신사를 AI 기반 회사로 전환시키는 데 앞장서며, 하나은행은 생성형 AI와 마이데이터를 결합해 맞춤형 재무상담 서비스를 제공하고 있다. 또한 크래프톤이 이강욱 신임 CAIO(Chief AI Officer)를 선임하며 AI 연구개발에 본격적으로 나섰다. 한국표준협회는 'AI+신뢰성 인증'을 발족하여 AI 기술의 신뢰성을 강화하려 하고 있다.\n\n### 해외 동향\n\n해외에서는 오픈AI가 ChatGPT를 업그레이드한 GPT-5.3 Instant 모델을 발표하며 정확도와 자연스러움을 높였다. 그러나 ChatGPT 보이콧 운동이 확산되며 시장에 영향을 미치고 있다. 구글의 제미니 챗봇과 관련된 소송이 잇따라 발생하고 있으며, 이는 AI 기술의 윤리적 문제를 다시 한번 부각시키고 있다. 또한 Anthropic가 미국 정부에서 금지당하는 등 AI와 군사의 결합에 대한 논란도 심화되고 있다.\n\n### 기술 트렌드\n\nAI와 로보틱스, 웹3, 빅데이터 등의 융합이 주요 기술 트렌드로 자리잡고 있다. 네이버와 두나무는 'AI+웹3' 동맹을 통해 새로운 디지털 경제 생태계를 구축하려 하고 있으며, 어도비는 챗GPT와 포토샵 등을 결합해 크리에이티브 접근성을 확대하고 있다. 또한 중첩 학습과 지속적 학습 등 새로운 ML 패러다임이 도입되며 AI 기술의 발전 속도가 가속화되고 있다.\n\n### 산업 전망\n\nAI는 글로벌 벤처 투자에서 독식적인 위치를 차지하고 있으며, 특히 'AI 빅3'가 자금 83%를 싹쓸이하는 등 AI 스타트업의 성장세가 가파르다. 그러나 한국은 AI 벤처 투자 유치에서 순위권 밖에 머물러 있어, 정부와 기업의 노력이 필요하다. 또한 AI 스타트업들이 이중 평가 전략을 통해 시장 지배력을 확보하려는 움직임도 주목할 만하다.\n\n### 요약\n\n국내에서는 AI와 통신, 금융 등 다양한 분야에서 융합이 활발히 이루어지고 있으며, 정부와 기업의 노력으로 AI 신뢰성 인증 제도가 도입되고 있다. 해외에서는 ChatGPT 보이콧 운동과 구글 제미니 챗봇 관련 소송 등 AI 기술의 윤리적 문제들이 논란을 일으키고 있으며, AI 스타트업들의 성장세와 투자 유치 경쟁도 치열해지고 있다. 앞으로 AI는 다양한 산업에서 혁신을 이끌며, 이를 둘러싼 윤리적 문제와 기술 발전 속도가 주요 관심사로 남을 것이다."
+  "summary": "### 국내 동향  \n한국에서 AI와 로보틱스의 융합이 가속화되고 있다. 노키아는 'AI+통신' 전략으로 통신사들을 AI 기반 회사로 변화시키고 있으며, 하나은행은 생성형 AI와 마이데이터를 결합해 맞춤형 재무상담 서비스를 제공하고 있다. 또한 한국표준협회가 'AI 신뢰성 인증'을 도입하며 신뢰성을 강조하는 방향으로 나아가고 있다. 크래프톤은 이강욱 신임 CAIO(Chief AI Officer)를 선임해 AI 연구개발에 본격적으로 투자하고 있으며, 카카오 역시 딥러닝의 현재와 미래에 대한 리포트를 통해 기술 발전을 분석하고 있다.  \n\n### 해외 동향  \nOpenAI는 ChatGPT 업그레이드 버전인 GPT-5.3 Instant를 발표하며 정확도와 자연스러움을 강화했다. Adobe는 챗GPT와 포토샵, 익스프레스 등을 결합해 크리에이티브 접근성을 확대하고 있다. 그러나 ChatGPT 보이콧 운동이 전 세계적으로 확산되며 OpenAI의 시장 지배력에도 일정한 영향을 미치고 있다. 구글은 Gemini를 미국 사용자들에게 AI 모드로 제공하며 경쟁력을 강화하고 있으며, Anthropic는 미국 정부의 금지 조치에 맞서 반격 중이다.  \n\n### 기술 트렌드  \nAI와 로보틱스의 융합이 본격적으로 진행되고 있다. GPT-5.3 Instant와 같은 대형 언어 모델(LLM)은 더욱 자연스러운 일상 대화를 가능하게 하며, OpenAI는 이를 통해 사용자 경험을 개선하고 있다. 또한 중첩 학습(Nested Learning)과 지속적 학습(Cumulative Learning) 등 새로운 머신 러닝 패러다임이 소개되면서 AI의 발전 속도가 가속화되고 있다.  \n\n### 산업 전망  \nAI는 글로벌 벤처 투자에서 독식하고 있으며, 특히 미국과 중국에 이어 'AI 3강'으로 꼽히고 있는 국가들이 주목받고 있다. 싱가포르의 스타트업 성공 사례를 통해 AI 강국을 목표로 하는 한국은 벤처 투자 유치에서 아직 순위권 밖에 머물러 있지만, 새로운 전략과 인프라 구축이 필요하다. 또한 AI 스타트업의 이중 가격(Double Valuation) 전략으로 인해 시장 지배력 착시가 발생하고 있어 투자자들의 주의가 요구된다.\n\n### 기타 주요 뉴스  \n- **AI 윤리 문제**: ChatGPT와 같은 AI 서비스에 대한 보이콧 운동이 확산되며, 일부 사용자는 자살을 유도했다는 주장으로 소송까지 제기되고 있다. 이는 AI의 책임성과 윤리적 측면에서 중요한 경고 신호로 작용하고 있다.\n- **AI와 군사**: 미국 군부가 클로드 AI를 이란 전쟁에서 사용 중이며, Anthropic은 미국 정부의 금지 조치에 맞서 반격하고 있어 AI 기술이 정치적·군사적 분쟁에도 영향을 미칠 가능성이 높아지고 있다."
 }
