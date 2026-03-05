@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06 04:50",
+  "updated_at": "2026-03-06 05:03",
   "categories": [
     {
       "name": "최신 AI 뉴스",
@@ -161,7 +161,7 @@
           "date": "Mon, 02 Mar 2026 05:00:00 GMT"
         },
         {
-          "title": "미국, 전 세계 Nvidia 및 AMD AI 칩 판매에 허가 요구 검토 - 야후 파이낸스",
+          "title": "미국, 전 세계 Nvidia와 AMD AI 칩 판매에 허가제 도입 검討 중 - 야후 파이낸스",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0ZXcloyTHVLdE5HZ2RJSlVQdGk3X1hfRWpoQk9WUk9aR1hRbjN3eXZFdEpsMENQRFdCa1M1cVBVdmZEeHljVm9iaFpBTzFzcXplSlNTMnhna214NHQ3aXVETFo4bW1NSFkyeW5ELV9KT3dycnpHOHlVQW0tN3psQ0Y4OUtMUQ?oc=5",
           "source": "Yahoo Finance",
           "date": "Thu, 05 Mar 2026 17:41:26 GMT"
@@ -173,7 +173,7 @@
           "date": "Thu, 05 Mar 2026 10:01:46 GMT"
         },
         {
-          "title": "인공지능 시대 영어 교육의 기쁨 | 편지 - 가디언",
+          "title": "인공지능 시대의 영어 교육의 기쁨 | 편지 - 가디언",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3hCbDZyaUtPajJRUWVoYnhYS0RNMnNOeWY2R2xONTdsMEhKZUtfb05lc0Q1TGFyOFc3bmNYQzZfRTNaZlVsY1Rfb3NhcUQ3NVRTUC0wZUxoMHVxVU05SXJLcm5Jb0JfTEQ2THlNS0NrMkJPcGpIaW1LYmZTaVBWWXNXM3VYci1fZDlwUWtLTWlBdzJobHc?oc=5",
           "source": "The Guardian",
           "date": "Wed, 04 Mar 2026 17:24:00 GMT"
@@ -184,7 +184,7 @@
       "name": "OpenAI & GPT",
       "articles": [
         {
-          "title": "GPT-5.3 Instant: 매끄럽고 실용적인 일상 대화 - 오픈AI",
+          "title": "GPT-5.3 Instant: 매끄럽고 유용한 일상 대화를 위한 업데이트 - 오픈AI",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14b1NfNV9zUUE3MlhxSzVNYlhFa1hERmZnak9pV25RM0VkY2YtYWwwbW54N29jbHdaTmgzZE1LNld4SnlGUVhFU0tTSlZZV3pOR21B?oc=5",
           "source": "OpenAI",
           "date": "Tue, 03 Mar 2026 00:02:31 GMT"
@@ -193,7 +193,7 @@
           "title": "GPT-5.4 소개 - 오픈AI",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5",
           "source": "OpenAI",
-          "date": "Thu, 05 Mar 2026 18:10:35 GMT"
+          "date": "Thu, 05 Mar 2026 18:12:48 GMT"
         },
         {
           "title": "오픈AI, ChatGPT 쇼핑 계획 축소 - 더 인포메이션",
@@ -202,7 +202,7 @@
           "date": "Thu, 05 Mar 2026 01:20:00 GMT"
         },
         {
-          "title": "'ChatGPT 취缔': 오픈AI-펜타곤 군사 계약 후 AI 불매운동 증가 - 유로 نيوز",
+          "title": "'ChatGPT 취缔': 오픈AI-펜타곤 군사 계약 후 AI 불매운동 확산 - 유로 نيوز",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkFyaF8wMUZfWWZab2czcG5DZGFEd2dneHI1ZFBXN2tkUjFfRVg5TnhOeWQ5RkVDVmViS2k2TVJnMWRaaFpjaXhXSzljR0xwZGpQOXNRcUlBSlV5R0k1WGV5ZzAzeUtUanlxTHhuWHY4RVg1V0Z5UmxnQTdXUEVOWmZVTFd1UlBlZm8yRDI2VHk5Ym9mVU1jV2V4QXpYT21mNGJ4MjlMdDNUZHBSN3c?oc=5",
           "source": "Euronews.com",
           "date": "Mon, 02 Mar 2026 10:51:44 GMT"
@@ -225,13 +225,13 @@
           "date": "Fri, 07 Nov 2025 08:00:00 GMT"
         },
         {
-          "title": "오픈소스 AI 도구, 거대 LLM들을 문헌 검토에서 이긴다 - 내추럴",
+          "title": "오픈소스 AI 도구, 거대 LLM들을 문헌 검토에서 이긴다 - 네이처",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LLUg0Qk1NTS1WYXVtOEgwWDBBckxOZnBGZENvcC1GZkluaW1hX1FsdzJleXBUU2ppNjBhRlhnOFVBc0c0blZydkxtTU90Ymw4LVNjbllMUzRaVUZ4d0Nn?oc=5",
           "source": "Nature",
           "date": "Wed, 04 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "생각의 착각: 문제 복잡성이라는 관점에서 추론 모델의 강점과 한계 이해하기 - 애플 머신러닝 연구",
+          "title": "생각의 착각: 문제 복잡성 관점에서 추론 모델의 강점과 한계 이해하기 - 애플 머신러닝 연구",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42SXFaQkRiT1YwQ2lVeXFRazFKcER4ZmhlRFBqYkU5ZzhRY09VR01UeHFGclFEc0ZjOWI4bkp3andkX1hIODVjS29NSHpZMlRZWkpUcG84NGNQdEpqQUw5OEZKVlZ3Wl91aUxpRDdFME4?oc=5",
           "source": "Apple Machine Learning Research",
           "date": "Thu, 05 Jun 2025 21:09:43 GMT"
@@ -243,7 +243,7 @@
           "date": "Thu, 09 Oct 2025 07:00:00 GMT"
         },
         {
-          "title": "2025년에 머신 러닝 및 생성형 인공지능의 역할은 무엇인가? - MIT 슬론",
+          "title": "2025년에 머신 러닝 및 생성형 인공지능의 활용 가능성은? - MIT 슬론",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUpZbGhldDIyVXZoemd2MGt5UkNZNW1tMHFYLV8zLXhicGRwZ3daZnhtLUpza1FjOVR5VmhFZzQzVFJ0UmQwdjR5U0I1dTZkUlhtX3VFakRDMXZmLVQ2Umk0TEw0WVRSYnF1eWJvRmVUVmE3aXVjSUloeVpYQXpYMlgyb3FiNGthUmNuX0p5TFptaXJaOXdTTEE3dG1aVzJiZGdaeWtR?oc=5",
           "source": "MIT Sloan",
           "date": "Mon, 02 Jun 2025 07:00:00 GMT"
@@ -254,7 +254,7 @@
       "name": "TechCrunch AI",
       "articles": [
         {
-          "title": "독점 보도: Luma, 새로운 ‘통합 지능’ 모델을 활용한 창의적 AI 에이전트 출시",
+          "title": "독점 보도: Luma, 새로운 ‘통합 지능’ 모델을 통해 창의적 AI 에이전트를 출시",
           "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
           "source": "TechCrunch AI",
           "date": "Thu, 05 Mar 2026 18:11:36 +0000"
@@ -272,13 +272,13 @@
           "date": "Thu, 05 Mar 2026 17:00:00 +0000"
         },
         {
-          "title": "메타사의 스마트 글래스 AI 관련 개인정보 문제로 소송 제기, 직원들이 노출 영상 검토",
+          "title": "메타의 스마트 글래스 AI 관련 개인정보 문제로 소송 제기, 직원들이 노출 영상 검토",
           "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
           "source": "TechCrunch AI",
           "date": "Thu, 05 Mar 2026 16:50:20 +0000"
         },
         {
-          "title": "안소니코 CEO 다리오 아모데이가 국방부와 협상을 계속 시도할 수 있다",
+          "title": "안תרופ닉 CEO 다리오 아모데이가 방위부와 계약을 추진 중일 수 있다",
           "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
           "source": "TechCrunch AI",
           "date": "Thu, 05 Mar 2026 16:45:51 +0000"
@@ -289,13 +289,13 @@
       "name": "The Verge AI",
       "articles": [
         {
-          "title": "넷플릭스가 벤 에프leck 인공지능 스타트업을 인수한다.",
+          "title": "넷플릭스가 벤 에프leck의 인공지능 스타트업을 인수한다.",
           "link": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
           "source": "The Verge AI",
           "date": "2026-03-05T13:35:17-05:00"
         },
         {
-          "title": "오픈아이의 새로운 GPT-5.4 모델은 자율 에이전트로 나아가는 큰一步。",
+          "title": "오픈AI의 새로운 GPT-5.4 모델은 자율 에이전트로 나아가는 큰一步。",
           "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
           "source": "The Verge AI",
           "date": "2026-03-05T13:31:27-05:00"
@@ -365,7 +365,7 @@
           "date": "Thu, 05 Mar 2026 14:28:46 +0000"
         },
         {
-          "title": "산불 예방은 어느 정도가 과하다고 할까?",
+          "title": "산불 방지가 과한 수준은 언제인가?",
           "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
           "source": "MIT Tech Review",
           "date": "Thu, 05 Mar 2026 11:00:00 +0000"
@@ -429,31 +429,31 @@
       "name": "Wired AI",
       "articles": [
         {
-          "title": "그램마리, 인기 작가들의 '전문가'급 AI 리뷰 제공 - 생존 여부와 상관없이",
+          "title": "그램마리, 살아 있는 명 작가들과 함께 ‘전문가’ 인공지능 리뷰 제공",
           "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:56:37 +0000"
         },
         {
-          "title": "대기업들이 화이트하우스 데이터센터 서약에 이름 올리다 - 좋은 이미지지만 실질적인 내용은 거의 없다",
+          "title": "대기업들이 훌륭한 이미지만 부각시키는 백악관 데이터 센터 서약에 서명하다",
           "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:13:27 +0000"
         },
         {
-          "title": "전쟁을 위한 인공지능 모델의 실제 모습은 무엇인가",
+          "title": "전쟁을 위한 AI 모델은 실제로 어떤 모습인가?",
           "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:00:03 +0000"
         },
         {
-          "title": "미국 최고 디자인 책임자 조 게비아가 사용하는 신비로운 금속 장치는 무엇일까",
+          "title": "미국 최고 디자인 책임자 조 게비아가 사용하는 신비로운 금속 장치는 무엇인가요?",
           "link": "https://www.wired.com/story/joe-gebbia-mystery-metallic-device/",
           "source": "Wired AI",
           "date": "Tue, 03 Mar 2026 01:06:01 +0000"
         },
         {
-          "title": "전화 통화 중 AI 에이전트를 깨우는 명령어를 말하면 호출 가능",
+          "title": "전화 통화 중 호출 단어를 말하면 이 인공지능 에이전트를 소환할 수 있습니다",
           "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
           "source": "Wired AI",
           "date": "Tue, 03 Mar 2026 00:25:44 +0000"
@@ -461,5 +461,5 @@
       ]
     }
   ],
-  "summary": "### 국내 동향\n\n국내에서는 AI와 통신의 융합이 주목받고 있습니다. 노키아가 'AI-RAN' 전환을 통해 통신사를 AI 기업으로 변화시키는 계획을 발표했으며, 하나은행은 생성형 AI와 마이데이터를 결합한 맞춤형 재무상담 서비스를 도입했습니다. LG AI연구원도 글로벌 석학과 산업형 리더를 동시에 영입하며 AI 연구 강화에 나섰습니다. 또한, 한국표준협회가 'AI+ 신뢰성 인증'을 발족해 AI 기술의 투명성을 높이는 방안을 마련했습니다.\n\n### 해외 동향\n\n해외에서는 GPT-5.3 Instant와 GPT-5.4 등 최신 대형 언어 모델(LLM) 업데이트가 주요 화두였습니다. OpenAI는 ChatGPT를 포함한 여러 서비스에 GPT-5.3 Instant를 적용하며 자연스러운 대화 경험을 제공하고, GPT-5.4는 프로와 사고 버전을 출시해 사용자 맞춤형 기능을 강화했습니다. 구글은 네스트드 러닝(Nested Learning)과 오픈소스 AI 도구를 발표하며 연속 학습 및 대규모 모델 검토에서 혁신을 시도하고 있습니다.\n\n### 기술 트렌드\n\nAI와 로보틱스의 융합이 가속화되고 있으며, 인간이 AI 상사에게 일하는 시대가 성큼 다가왔습니다. 또한, GPT-5.x 시리즈는 대규모 언어 모델에서 정확도와 자연스러운 표현을 개선하며 사용자 경험을 획기적으로 향상시켰습니다. 네스트드 러닝은 연속 학습의 새로운 패러다임으로 주목받고 있으며, 오픈소스 AI 도구는 대규모 모델 검토에서 상업적 솔루션을 능가하는 성능을 보여주었습니다.\n\n### 산업 전망\n\nAI 기술이 다양한 산업에 혁신을 가져오고 있습니다. 구글 클라우드는 세계 주요 기업들의 현실적인 제너레이티브 AI 사용 사례를 공개하며, 인공지능의 실질적 활용 가능성을 보여주었습니다. 또한, 넷플릭스가 벤 에프leck 인공지능 스타트업을 인수함으로써 미디어 산업에서도 AI 기술의 중요성이 증명되었습니다. 그러나 미국과 중국이 주도하는 글로벌 경쟁 속에서 한국은 AI 벤처 투자 유치에서 순위권 밖에 위치해 있으며, 이는 정책적 지원 강화가 필요하다는 시사점을 던집니다.\n\n### 결론\n\nAI 기술의 발전과 융합이 가속화되며, 각 산업에서 실질적인 혁신을 이루고 있습니다. 특히 GPT-5.x 시리즈와 네스트드 러닝 같은 최신 기술은 사용자 경험 향상에 중요한 역할을 하고 있습니다. 그러나 한국은 AI 벤처 투자 유치에서 경쟁력이 부족한 상황으로, 정책적 지원과 산업 간 협력을 통해 글로벌 경쟁에서 우위를 점해야 할 필요성이 제기됩니다."
+  "summary": "### 국내 동향\n\n국내에서는 AI와 통신의 융합이 주목받고 있다. 노키아는 'AI-RAN' 전환을 통해 통신사를 AI 기반 회사로 전환시키겠다고 밝혔다(1). 하나은행은 생성형 AI와 마이데이터를 결합한 맞춤 재무상담 서비스를 도입하며 금융 혁신에 나섰다(2). 크래프톤은 이강욱 신임 CAIO를 선임해 AI 연구개발을 본격화하고 있다(13). LG는 글로벌 AI 석학과 산업형 리더를 동시에 투입하며 AI 연구원 체계를 전환했다(15).\n\n### 해외 동향\n\n해외에서는 GPT-5.4와 같은 대형 언어 모델의 업데이트가 주요 관심사다. OpenAI는 ChatGPT에 GPT-5.3 Instant를 적용해 자연스러운 대화 경험을 제공하고 있으며, 프로 및 사고 버전을 출시했다(7, 29). 구글은 네스트드 러닝을 발표하며 연속 학습의 새로운 패러다임을 제시했다(31). Meta는 스마트 글래스 AI 관련 개인정보 문제로 소송이 제기되었으며, Anthropic는 Cowork라는 새로운 AI 에이전트를 출시했다(39, 40).\n\n### 기술 트렌드\n\nAI와 로봇의 융합은 인간과 AI 상사 간의 작업 환경 변화를 예고하고 있다(3). GPT-5.3 Instant는 더 자연스럽고 유용한 일상 대화를 가능하게 했으며, 오픈소스 AI 도구는 거대 LLM들을 문헌 검토에서 이겼다(6, 32). 네스트드 러닝은 연속 학습을 위한 새로운 머신러닝 패러다임을 제시하며 기술적 혁신이 계속되고 있음을 보여준다(31).\n\n### 산업 전망\n\nAI는 금융, 의료, 교육 등 다양한 분야에서 채용의 동반자로 자리잡고 있다. 다만, AI 보조금 경쟁으로 인해 중국 기술주가 800조원 증발하는 등 글로벌 경쟁이 치열하다(20). 미국은 Nvidia와 AMD의 AI 칩 판매에 허가제를 도입할 계획을 검토하고 있어, 이는 글로벌 시장에서의 규제 강화를 예고한다(23).\n\n### 결론\n\nAI 기술은 급격히 발전하며 다양한 산업과 융합되고 있다. 국내에서는 AI와 통신 및 금융 서비스의 융합이 주목받고 있으며, 해외에서는 GPT-5.x 시리즈와 같은 대형 언어 모델의 업데이트가 주요 관심사다. 또한, 글로벌 경쟁과 규제 강화는 앞으로 AI 산업의 발전에 중요한 변수가 될 것이다."
 }
