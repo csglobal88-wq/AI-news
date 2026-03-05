@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-06 08:36",
+  "updated_at": "2026-03-06 08:50",
   "categories": [
     {
       "name": "최신 AI 뉴스",
@@ -161,22 +161,22 @@
           "date": "Mon, 02 Mar 2026 05:00:00 GMT"
         },
         {
-          "title": "국방부, Anthropic를 공급망 위험으로 공식 지정...AI 규제 논쟁 속에 - CBS 뉴스",
+          "title": "당신을 백만장자로 만드는 3대 인공지능(AI) 주식 - 야후 finance",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3cwNTU3cklUajk0TlZRbHRVSXhvdTVWZm9fQlNGdm9XSUE1Q2NXS1hjbWRyZ2d1UlpxRHNxT0gwSjlBcWJXWkpwRWFVZ1dQTkNjbzFJMDBGUEFYRUc2Z3VIc3U4elU1Z2JLTGVRb2UxYmVrNTFLSUdqTk5ya1ZKNE9neXo0dWp1?oc=5",
+          "source": "Yahoo Finance",
+          "date": "Thu, 05 Mar 2026 10:25:00 GMT"
+        },
+        {
+          "title": "현명한 조언: A.I.를 세금 신고에 사용하지 마세요 - 뉴욕 타임스",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZDk5eXRhZTJtYnFVZnkzbTBxdVVBbDI4bmhTV0s5N0NiT0tvTDdsTEVoN3A4WkZPYjdzZFU0RnNlWVFjTWxtRWI4ZVNYUWx1ZktWNG5sTUpPdU8waHJ2VWt2SVBNUTgteUs1SjdPd0VueWd3TWdUZ0pzdjRDemZ5UzUtbGxLQkZzSGZBWWNrakxrTzVIbmc?oc=5",
+          "source": "The New York Times",
+          "date": "Thu, 05 Mar 2026 10:01:46 GMT"
+        },
+        {
+          "title": "방위부, AI 지침 논쟁 속에서 Anthropic을 공급망 위험으로 공식 지정 - CBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0Z1SWR6aHAxRlZDX0pLVDVEQlhsZ2pfZ1V0Y1p3YW80S0djNnM0dEpxekNOOTNmQWFwakZMdDFNQmdtNXRndFF0QkhsYTdZUWEyc2FLWkktdUxGVkt3Q1FlUkd5ZG9FUVl6WUxCOWRmMFp5ZlRBRkt0U3NVcmlEYjAzT3BKalBVTzJGNkFn0gGTAUFVX3lxTE5Pei00TlV6eVZJQVVxeG9FZm5MWG1sQzZhZ21zY25IMU11NzRCdlJzbkQ0UkpMcC03OXBONkh6ME91bURGS3plWHZzSGxPWTBOLUg0Nk1qTmJGaFV4WnBuQ0VVcmdnNnR3azlPOFlpOUl6bGpTSkFIb19jRU5JLUFYX2FKX2FDWXN3MExiOWJ4WVBXSQ?oc=5",
           "source": "CBS News",
           "date": "Thu, 05 Mar 2026 20:39:00 GMT"
-        },
-        {
-          "title": "'매우 아이러니한 상황': 트럼프는 Anthropic 논란과 로비스트들 때문에 자신의 AI 의제를 망치고 있다 - Politico",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcUp4RTBHeWhPVnl1aW1yTTNMODY4UHA4cXZITFRYd2JpQ1FRTmM1SWZyMjJKUUEyU3NzbUhNRlZpcmxMY3J4MnNGSFhwOTNkRWxSd1l2aUtSbXlCZVE2ajBoaFJJXzcwXy1mUmwzdVhxUG1GLTBseHU1Zk1rV0JVdDJnbE9yeF8xcFJQcjhRcjBMdE4wT0NJY3FIbXozbmpWXzZFcm9IYWJIMjFtUzVvQ0k4Q09Wa1UzRHhNdnRKTGl2YVA3dFFpTkQ3eFdkSU9leXhGM19ia0Vxb2RkRVVwNHVB?oc=5",
-          "source": "Politico",
-          "date": "Thu, 05 Mar 2026 20:24:19 GMT"
-        },
-        {
-          "title": "국방부, Anthropic를 공급망 위험으로 지정 - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03TzU5UVBTYWdNbFhDcThiaG9tbTZXNUMxck1qU0pWMHJsODR1UHZhU3VEdmF1aW1mLVJlVEktajBXc192QW1TSVRBdjlsYlZTRENwazM2ZFcydw?oc=5",
-          "source": "BBC",
-          "date": "Thu, 05 Mar 2026 20:58:51 GMT"
         }
       ]
     },
@@ -184,31 +184,31 @@
       "name": "OpenAI & GPT",
       "articles": [
         {
-          "title": "GPT-5.4 출시 - 오픈AI",
+          "title": "GPT-5.4 소개 - 오픈AI",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5",
           "source": "OpenAI",
           "date": "Thu, 05 Mar 2026 20:40:54 GMT"
         },
         {
-          "title": "오픈AI, ChatGPT 쇼핑 확대 계획을 축소하다 - The Information",
+          "title": "오픈AI, ChatGPT 쇼핑 계획 축소 - 더 인포메이션",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzNWNkJJSjQ1QXZ4ZlMxcl81WmFRbldKYmdwM1VJVVBFY3V0cUhEenZ0T2NWQkk1QUlLMTVOTHhGSlNLY3BuVWcwRGVtZVpaLVJXS1FLSFlzZHF2cTFqUHRrNXNCdXl5VkYyY19iWW1SUG1FWTJfejVobmVXaElZck5GWnpvVUlQ?oc=5",
           "source": "The Information",
           "date": "Thu, 05 Mar 2026 01:20:00 GMT"
         },
         {
-          "title": "절박한 상황에서 승리가 필요했던 오픈AI, GPT-5.4를 론칭하다 - Gizmodo",
+          "title": "절박한 상황에서 승리가 필요했던 오픈AI, GPT-5.4를 출시하다 - Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU1ZbG82UjBZX09qOU9zQnFKbmgxRlp1eGJmaUNRWTBoZ0pLQm1TSXVYV1MzM1hMOWNReGJ1dW1SSXY1Z0tET1dXMnA2RllSaGxKcGFVTnlwZTQ0MzJaNVJRT0RKMlAtUVZWRHdOMU0wQkwxOHVsUHlBZjRwdlN5anRHMmlENGpR?oc=5",
           "source": "Gizmodo",
           "date": "Thu, 05 Mar 2026 19:45:39 GMT"
         },
         {
-          "title": "'귀하의 피드백을 명확히 들었습니다' — 오픈AI는 모든 사용자를 위한 '크ringe' 감소를 위해 새로운 ChatGPT 5.3 Instant를 출시합니다 - TechRadar",
+          "title": "\"피드백을 명확히 들었습니다\" — 오픈AI, 모든 사용자를 위한 '크ringe' 감소를 위해 새로운 ChatGPT 5.3 Instant 도입 - TechRadar",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONGI3VzJqLUlodUp3czdYV19wX3FMQTVLTEVfT1pjaXVSZkdicTgxVnBuMTlOVHhZRHdpQ0lYdWtYQXZYa1VkTGMtT0FzUmVqcU1OMGtNN05aV1dmZlFmS1NBbkl2Rk5iUTJza2x0dS1Sd1c1dVd5WWxZc083dWZ1VjJmVDExQ1NRZk9ucWp2bXlXOUdHQ0N4WDRQRlA2YkJLbkpXUDNGR0pDcThlN0h5LWcyTjgwVlZMNVExMFNMOWxSRnpwRVk2eXNKTnczbGo2cHpVMGZDbVdRWmlhZkJ5RjF4andTU2NKY0hhOFkzZTZpSDJkTGlfOGZQOHhwd2tPN1E?oc=5",
           "source": "TechRadar",
           "date": "Wed, 04 Mar 2026 11:06:00 GMT"
         },
         {
-          "title": "오픈AI의 새 GPT-5.4 모델은 자율 에이전트로 향한 큰 발걸음을 내딛다 - The Verge",
+          "title": "오픈AI의 새 GPT-5.4 모델은 자율 에이전트 시대에 한 발 더 가까이 - 더 버지",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHRORmpfQkhXOHpmMkVrei1pVEU5SjR3R3NQTDZfaG5fY0xiNE91RVdEM2FPQWkxSXJyQnRkY1ByWS1ISGhIejBvZVRRUGxicGZha19pSjVEMU9PZXVkcnRmR1B5X0JmcmphZ3pyWXB4cWdna0MzMGpKT0RNWVE3RjRKTkhvR2ltSXl1X3FoLTh0X0h2Rm5PS1QwQjZBdw?oc=5",
           "source": "The Verge",
           "date": "Thu, 05 Mar 2026 18:00:00 GMT"
@@ -219,7 +219,7 @@
       "name": "AI Research",
       "articles": [
         {
-          "title": "네스티드 러닝 소개: 지속 학습을 위한 새로운 머신러닝 패러다임 - 구글 리서치",
+          "title": "네스트드 러닝 소개: 지속 학습을 위한 새로운 머신러닝 패러다임 - 구글 리서치",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXE4VWRhb3VlQ0hfRkRzTjMyb2FJTzdZZm1DVlNzZm9DbG5zc1RCa3ktd3VfOTRscnhSZXZvSkN5UnhoT1E5YTgxVl9xdTRMUzlmZzQ4WUJiQk0zOS1LT090c1lIQUFxeTE1bTEyZUd1TUlhdGNVZGg0MTFfRVdHb1lIQ0xOYVZ2bHpSRDFfaVluWHZFbENXUFN1VG9TTkU?oc=5",
           "source": "Google Research",
           "date": "Fri, 07 Nov 2025 08:00:00 GMT"
@@ -237,13 +237,13 @@
           "date": "Thu, 05 Jun 2025 21:09:43 GMT"
         },
         {
-          "title": "세계 선도 기업들의 현실적 인공지능 활용 사례 - 구글 클라우드",
+          "title": "세계 주요 기업들의 실제 사례를 통한 제너레이티브 AI 활용 방법 - 구글 클라우드",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFZzcHc0ckFXSnFSMkVKZ3JyZmdlWmZpOGpOOFJWZUszN1dsaFl5MndRVWloX0Y3ZjRRanhhYTlqTGlLVjQwazVvQ2dyMlAwQU1SR3ZHSmxXYUlCSTZjblV0THNEaVlTM21XMGdwc0xYcnRyWUdZcFBmZHdIWXdfLWxRWUpnVm95WW9WLVZWcVFKMzU0RHdXR3ZKRQ?oc=5",
           "source": "Google Cloud",
           "date": "Thu, 09 Oct 2025 07:00:00 GMT"
         },
         {
-          "title": "2025년에 머신 러닝 및 생성형 AI의 역할은 무엇인가? - MIT 슬론",
+          "title": "2025년에 머신 러닝 및 생성형 인공지능의 역할은 무엇인가? - MIT 슬론",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUpZbGhldDIyVXZoemd2MGt5UkNZNW1tMHFYLV8zLXhicGRwZ3daZnhtLUpza1FjOVR5VmhFZzQzVFJ0UmQwdjR5U0I1dTZkUlhtX3VFakRDMXZmLVQ2Umk0TEw0WVRSYnF1eWJvRmVUVmE3aXVjSUloeVpYQXpYMlgyb3FiNGthUmNuX0p5TFptaXJaOXdTTEE3dG1aVzJiZGdaeWtR?oc=5",
           "source": "MIT Sloan",
           "date": "Mon, 02 Jun 2025 07:00:00 GMT"
@@ -260,7 +260,7 @@
           "date": "Thu, 05 Mar 2026 23:14:04 +0000"
         },
         {
-          "title": "AWS, 의료 분야 전용 인공지능 에이전트 플랫폼 출시",
+          "title": "AWS, 의료 분야를 위한 새로운 AI 에이전트 플랫폼 출시",
           "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
           "source": "TechCrunch AI",
           "date": "Thu, 05 Mar 2026 21:54:37 +0000"
@@ -289,7 +289,7 @@
       "name": "The Verge AI",
       "articles": [
         {
-          "title": "방위부, 안תרופ릭을 공급망 위험으로 공식 지정",
+          "title": "방위부, 안תרופ릭스를 공급망 위험으로 공식 지정",
           "link": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
           "source": "The Verge AI",
           "date": "2026-03-05T18:02:46-05:00"
@@ -301,19 +301,19 @@
           "date": "2026-03-05T13:35:17-05:00"
         },
         {
-          "title": "오픈AI의 새로운 GPT-5.4 모델이 자율 에이전트 실현에 큰 발걸음을 내딛다",
+          "title": "오픈AI의 새로운 GPT-5.4 모델이 자율 에이전트 실현에 큰 발걸음迈出一步",
           "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
           "source": "The Verge AI",
           "date": "2026-03-05T13:31:27-05:00"
         },
         {
-          "title": "메타의 AI 안경, 케냐의 인간 검토자들에게 민감 영상 전송된다고 보도",
+          "title": "메타의 AI 안경, 케냐의 인간 검토자에게 민감 영상 전송 보고",
           "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
           "source": "The Verge AI",
           "date": "2026-03-05T11:37:52-05:00"
         },
         {
-          "title": "애플 음악, AI 노래와 비주얼 선택적 라벨링 추가",
+          "title": "애플 음악, AI 곡과 비주얼 선택적 라벨 추가",
           "link": "https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch",
           "source": "The Verge AI",
           "date": "2026-03-05T09:00:00-05:00"
@@ -324,31 +324,31 @@
       "name": "Ars Technica",
       "articles": [
         {
-          "title": "트럼프, 데이터 센터 회사들에 발전소 운영 비용 부담 약속 이끌어내기",
+          "title": "트럼프, 데이터 센터 회사들에 발전소 건설 비용 부담 서약 이끌어내",
           "link": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
           "source": "Ars Technica",
           "date": "Thu, 05 Mar 2026 18:41:28 +0000"
         },
         {
-          "title": "다운디텍터, 스피드테스트가 IT 서비스 제공업체인 아커튜어에 12억 달러 규모의 거래로 인수됨",
+          "title": "다운디텍터, 스피드테스트가 IT 서비스 제공업체 어센트리움에 12억 달러에 인수",
           "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
           "source": "Ars Technica",
           "date": "Tue, 03 Mar 2026 22:20:06 +0000"
         },
         {
-          "title": "대형 언어 모델(LLM), 익명 사용자들의 가짜 정체성을 대규모로 파악하는 놀라운 정확도를 보여",
+          "title": "대형 언어 모델이 익명 사용자 해제하는 놀라운 정확도로 규모화 가능",
           "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
           "source": "Ars Technica",
           "date": "Tue, 03 Mar 2026 12:30:24 +0000"
         },
         {
-          "title": "구글, 양자 암호화 기술을 통해 HTTPS 15kB 데이터를 700바이트 공간에 압축하여 안전하게 전송",
+          "title": "구글, 양자 암호화 HTTPS 통해 15kB 데이터를 700바이트 공간으로 압축",
           "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
           "source": "Ars Technica",
           "date": "Sat, 28 Feb 2026 01:26:41 +0000"
         },
         {
-          "title": "새로운 공기스니치 공격, 가정과 사무실, 그리고 기업의 Wi-Fi 암호화를 우회해",
+          "title": "새로운 공기 휘파람 공격이 가정, 사무실 및 기업의 Wi-Fi 암호화 우회",
           "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
           "source": "Ars Technica",
           "date": "Thu, 26 Feb 2026 15:45:18 +0000"
@@ -365,7 +365,7 @@
           "date": "Thu, 05 Mar 2026 14:28:46 +0000"
         },
         {
-          "title": "산불 예방은 어느 정도가 과할까?",
+          "title": "산불 예방은 어느 정도가 과하다고 할까?",
           "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
           "source": "MIT Tech Review",
           "date": "Thu, 05 Mar 2026 11:00:00 +0000"
@@ -394,31 +394,31 @@
       "name": "VentureBeat AI",
       "articles": [
         {
-          "title": "철도가 AWS에 맞서 AI �本地化助手",
+          "title": "철도가 AWS와 경쟁하기 위해 1억 달러 규모의 인공지능 네이티브 클라우드 인프라를 확보하다",
           "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
           "source": "VentureBeat AI",
           "date": "Thu, 22 Jan 2026 14:00:00 GMT"
         },
         {
-          "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+          "title": "Claude Code는 한 달에 최대 200달러, Goose는 무료로 같은 일을 한다",
           "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
           "source": "VentureBeat AI",
           "date": "Mon, 19 Jan 2026 14:00:00 GMT"
         },
         {
-          "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+          "title": "리스닝 랩스가 바이럴 보드illac 채용 광고 후 69백만 달러를 모금해 인공지능 고객 인터뷰 확장하다",
           "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
           "source": "VentureBeat AI",
           "date": "Fri, 16 Jan 2026 14:01:00 GMT"
         },
         {
-          "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+          "title": "세일즈포스가 사내 인공지능 시장을 위해 마이크로소프트와 구글과 경쟁하는 새로운 Slackbot AI 에이전트 출시",
           "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
           "source": "VentureBeat AI",
           "date": "Tue, 13 Jan 2026 13:00:00 GMT"
         },
         {
-          "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+          "title": "안תרופ닉, 사용자 파일에서 작동하는 코드 없이 코워크 데스크톱 에이전트인 Claude Desktop을 출시하다",
           "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
           "source": "VentureBeat AI",
           "date": "Mon, 12 Jan 2026 11:30:00 GMT"
@@ -435,7 +435,7 @@
           "date": "Thu, 05 Mar 2026 22:17:54 +0000"
         },
         {
-          "title": "오픈AI는 군사 사용을 금지했지만, 미국 국방부는 마이크로소프트를 통해 모델 테스트를 진행했다",
+          "title": "오픈AI는 군사 사용을 금지했지만, 미 국방부는 마이크로소프트를 통해 모델 테스트를 진행했다",
           "link": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
           "source": "Wired AI",
           "date": "Thu, 05 Mar 2026 22:00:00 +0000"
@@ -447,13 +447,13 @@
           "date": "Thu, 05 Mar 2026 21:14:22 +0000"
         },
         {
-          "title": "그램마리가 살아있는 혹은 돌아간 작가들의 '전문가' AI 리뷰 서비스를 제공합니다",
+          "title": "그램마리가 살아있는 혹은 사망한 당신의 선호 작가들로부터 '전문가' AI 리뷰를 제공합니다",
           "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:56:37 +0000"
         },
         {
-          "title": "대기업들이 화이트하우스 데이터센터 서약에 서명했지만, 형식은 갖추었으나 실질적인 내용은 부족하다",
+          "title": "대기업들이 눈속임용으로 서명한 백악관 데이터센터 서약",
           "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:13:27 +0000"
@@ -461,5 +461,5 @@
       ]
     }
   ],
-  "summary": "### 국내 동향\n\n국내에서는 AI와 통신의 융합이 주목받고 있다. 노키아가 MWC 2026에서 'AI-RAN' 기술을 선보이며, 통신사들이 AI 중심으로 전환될 수 있음을 시사했다. 하나은행은 생성형 AI와 마이데이터를 결합해 영업점 맞춤 재무상담 서비스를 본격화하고 있다. 남동발전은 AI와 빅데이터를 활용한 에너지 시설 보안을 강화하며, 산림과학 분야에서도 북한이 AI 기술 도입에 나서고 있어 새로운 변화가 예상된다.\n\n### 해외 동향\n\n해외에서는 GPT-5.3 Instant의 업데이트와 오픈AI의 ChatGPT 확장 계획 축소 등 대형 언어 모델(LLM) 관련 소식이 이슈다. OpenAI는 자연스러운 대화를 위한 GPT-5.4도 발표했으며, Anthropic가 공급망 위험으로 지정되면서 AI 규제 논쟁이 가속화되고 있다. 구글과 애플은 각각 네스티드 러닝 및 추론 모델의 한계를 연구하며 기술 발전을 주도하고 있다.\n\n### 기술 트렌드\n\nAI와 로보틱스, 생성형 AI의 융합이 현실화되고 있으며, GPT-5.3 Instant는 어색한 표현과 도덕적 훈계를 줄여 사용자 경험을 개선했다. 네스티드 러닝은 지속 학습에 대한 새로운 패러다임을 제시했고, 오픈소스 AI 도구가 거대 LLM들을 문헌 검토에서 이긴 점도 주목할 만하다.\n\n### 산업 전망\n\n크래프톤이 최고 인공지능 책임자(CAIO)를 신설하며 AI 기술 고도화에 본격 나섰다. 넷플릭스가 벤 애플렉의 AI 스타트업을 인수한 것은 미디어 산업에서도 AI 활용이 확대되고 있음을 보여준다. 반면, 중국과 미국은 여전히 AI 기술 경쟁에서 앞서나가는 모습이며, 한국은 벤처 투자 유치 측면에서 상위권에 들지 못하고 있다.\n\n### 요약\n\n국내에서는 통신 및 금융 분야에서의 AI 융합이 활발하게 이뤄지고 있으며, 북한도 산림과학 분야에서 AI를 도입하며 변화를 시도하고 있다. 해외에서는 GPT-5.x 시리즈 업데이트와 함께 대형 언어 모델(LLM) 기술 발전과 규제 논쟁이 주요 이슈로 떠오르고 있다. 네스티드 러닝과 오픈소스 AI 도구 등 새로운 기술 트렌드도 눈에 띄며, 산업 전망에서는 크래프톤의 CAIO 신설 및 넷플릭스 인수 발표가 주목받았다."
+  "summary": "### 국내 동향\n\n국내에서는 AI와 통신의 융합이 주목받고 있다. 노키아가 MWC 2026에서 'AI-RAN' 기술을 선보이며, 통신사들이 AI 회사로 전환될 수 있는 가능성을 제시했다(1). 하나은행은 생성형 AI와 마이데이터를 결합해 영업점에서 맞춤 재무상담 서비스를 제공하고 있다(2). 남동발전은 AI와 빅데이터를 활용해 국가 에너지 시설의 보안을 강화하고 있다(4). 크래프톤은 이강욱 신임 CAIO(Cheif AI Officer)를 선임하며 AI 기술 고도화 및 전략 강화에 나서고 있다(11, 13).\n\n### 해외 동향\n\n해외에서는 GPT-5.3 Instant와 ChatGPT의 업데이트가 주요 관심사다. OpenAI는 자연스러운 대화를 목표로 한 새로운 모델을 출시하며 사용자 피드백에 따라 어색한 표현과 도덕적 훈계를 줄이고 있다(6, 7). 그러나 ChatGPT의 보이콧 운동은 시장에 일정 영향을 미치고 있으며, 오픈AI는 쇼핑 계획 축소와 GPT-5.4 모델 출시로 대응하고 있다(27, 28).\n\n### 기술 트렌드\n\n기술적으로는 네스트드 러닝과 오픈소스 AI 도구의 발전이 주목받고 있다. 구글은 지속 학습을 위한 새로운 머신러닝 패러다임인 '네스트드 러닝'을 소개했으며, 오픈소스 AI 도구는 거대 LLM(Large Language Models)들을 문헌 검토에서 이겼다(31, 32). 또한, 대형 언어 모델의 익명 사용자 해제 정확도가 높아지고 있으며, 양자 암호화 HTTPS를 통해 데이터 압축 기술이 발전하고 있다(48, 49).\n\n### 산업 전망\n\n산업적으로는 AI와 로보틱스의 융합이 가속화되고 있다. 인간이 AI 상사에게 일하는 시대가 도래할 것으로 보이며, 이는 새로운 직무 구조를 요구할 것이다(3). 또한, 오픈AI의 성공과 함께 다른 기업들도 AI에 대한 투자를 늘리고 있으며, 특히 중국은 AI 무기고를 강화하고 있다(22). 반면, 한국은 AI 벤처 투자 유치에서 순위권 밖에 위치해 있어 산업 경쟁력 강화가 필요하다(17).\n\n### 기타 주요 뉴스\n\n- **네트워크 및 보안**: 방위부는 Anthropic을 공급망 위험으로 규정하며, AI의 군사적 사용 가능성에 대한 논란이 확대되고 있다(25, 41).\n- **엔터테인먼트**: 넷플릭스가 벤 애플렉의 AI 스타트업을 인수하면서 엔터테인먼트 산업에서도 AI 활용이 확산되고 있다(42).\n- **에너지 및 환경**: 북한은 산림과학 분야에 AI 기술을 도입하며, AI가 다양한 산업에서의 응용 가능성을 보여주고 있다(15).\n\n이러한 트렌드는 AI 기술의 발전과 그로 인해 변화하는 산업 구조를 반영하고 있으며, 향후 더 많은 혁신을 예고한다."
 }
