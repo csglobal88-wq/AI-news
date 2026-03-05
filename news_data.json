@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-05 16:57",
+  "updated_at": "2026-03-05 17:11",
   "categories": [
     {
       "name": "최신 AI 뉴스",
@@ -52,16 +52,16 @@
           "date": "Tue, 03 Mar 2026 20:33:00 GMT"
         },
         {
-          "title": "[빅테크칼럼] chatGPT혁명→QuitGPT 쇼크…챗GPT 보이콧 70만 돌파, 오픈AI 시장 '흔들' - 뉴스스페이스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VY3hBcFdZWDZseHZKOUZkQnhuT1F1RUM0SFZDXzZYRElMVi1hLU9qWFFkcThsQVhCQnA4a3V3SUF3MlI3QWJrQjM2dHZNVDdKa1NyaXdnX1F1RXczV3lTcg?oc=5",
-          "source": "뉴스스페이스",
-          "date": "Thu, 19 Feb 2026 08:00:00 GMT"
-        },
-        {
           "title": "어도비, 챗GPT에서 포토샵, 익스프레스, 애크로뱃 제공… 모두에게 크리에이티브 접근성 확대 - Adobe Newsroom",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzFfZ2F1Z1hJX2NzOU9YVVc1aGV2N01YeThnUW1vaE4xMG1sTVJ0M2F6UHctNXcwaE1qamVZLXFiRTI0OUlTMGRPazloNThjY2gteDZRLXVUTDg1bDJ6b0NBcFhncXI1SkpKeFBpQXc4b2x2a24wN29LRDUtblZSRktqaWU?oc=5",
           "source": "Adobe Newsroom",
           "date": "Thu, 11 Dec 2025 08:00:00 GMT"
+        },
+        {
+          "title": "[빅테크칼럼] chatGPT혁명→QuitGPT 쇼크…챗GPT 보이콧 70만 돌파, 오픈AI 시장 '흔들' - 뉴스스페이스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VY3hBcFdZWDZseHZKOUZkQnhuT1F1RUM0SFZDXzZYRElMVi1hLU9qWFFkcThsQVhCQnA4a3V3SUF3MlI3QWJrQjM2dHZNVDdKa1NyaXdnX1F1RXczV3lTcg?oc=5",
+          "source": "뉴스스페이스",
+          "date": "Thu, 19 Feb 2026 08:00:00 GMT"
         },
         {
           "title": "ChatGPT Enterprise 도입 시 반드시 고려해야 할 필수사항 6가지 | 인사이트리포트 | 삼성SDS - Samsung SDS",
@@ -103,10 +103,10 @@
           "date": "Tue, 13 Jan 2026 08:00:00 GMT"
         },
         {
-          "title": "크래프톤, 신임 CAIO에 이강욱 본부장 선임 - 시사포커스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZ3otMEZLTm41UW1rVFRhVEhyRGYtUGpuMWxQTlhLUU1vaVk4bHJvRU9KTl82QndrZ194ZkFkYTNqbkpKNU9QWFhLeWFKdFNnQnlLZlZyX2U0eHVxeld4N0tDZnlBeGtKMUlqQ1FWWQ?oc=5",
-          "source": "시사포커스",
-          "date": "Mon, 23 Feb 2026 00:50:18 GMT"
+          "title": "크래프톤, 이강욱 신임 CAIO 선임 - 네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeUFINFE1VnVfZVBxX0NySHBJeWdjTUdLSndDd2FQeDF4M3dEbWctbThjSUdGRjVwcVFXZG5OZmt2Z2lmbjNvVnhMRlJLdlVJTWVZ?oc=5",
+          "source": "네이트",
+          "date": "Mon, 23 Feb 2026 06:50:00 GMT"
         }
       ]
     },
@@ -173,7 +173,7 @@
           "date": "Mon, 02 Mar 2026 08:00:00 GMT"
         },
         {
-          "title": "분석가들, 인공지능 시대에 졸업생들에게 '전부 비관적이지는 않다'고 말한다 - BBC",
+          "title": "분석가들, \"인공지능 시대는 졸업생들에게 모두 비관적이지는 않다\" - BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13LWdDbGh0a1F1Nmg4WnlNWDVwYkM4TkxzeGM4LUg3QmFuM0U5VkhEaC1ubzVHTERVbmM4bEpxMHVJMHpEZG9PTmF2TVAwcmc3dExjTUlwVEs0UQ?oc=5",
           "source": "BBC",
           "date": "Thu, 05 Mar 2026 06:00:28 GMT"
@@ -190,25 +190,25 @@
           "date": "Tue, 03 Mar 2026 00:02:31 GMT"
         },
         {
-          "title": "막대한 수의 사람들이 ChatGPT를 언install하다 as Anti-OpenAI 감정이 급증 - 퓨처리즘",
+          "title": "수많은 사람들이 ChatGPT를 언install하다随着反OpenAI情绪激增 - 퓨처리즘",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1ZnMjdWQlBUbHZiTmd4c01QVFBLS2JNUkQwRmZCWXJvVk1SVkxXRllPZWwyc2VtWG9ub00yWHpHbjRzZERUeXFfNjY2MDBtWjVEMDUtZVFkRkdqc01Hd0huLVB5ckRYN3hCVEFheVMxQWFxWmljRk1McjQyYlVBM1d6MjdXYVk?oc=5",
           "source": "Futurism",
           "date": "Tue, 03 Mar 2026 20:03:44 GMT"
         },
         {
-          "title": "'ChatGPT 취소': OpenAI-펜타곤 군사 계약 후 AI 불매운동 급증 - 유로 نيوز",
+          "title": "'ChatGPT 취소': OpenAI-펜타곤 군사 계약 후 AI 불매운동 증가 - 유로 نيوز",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkFyaF8wMUZfWWZab2czcG5DZGFEd2dneHI1ZFBXN2tkUjFfRVg5TnhOeWQ5RkVDVmViS2k2TVJnMWRaaFpjaXhXSzljR0xwZGpQOXNRcUlBSlV5R0k1WGV5ZzAzeUtUanlxTHhuWHY4RVg1V0Z5UmxnQTdXUEVOWmZVTFd1UlBlZm8yRDI2VHk5Ym9mVU1jV2V4QXpYT21mNGJ4MjlMdDNUZHBSN3c?oc=5",
           "source": "Euronews.com",
           "date": "Mon, 02 Mar 2026 10:51:44 GMT"
         },
         {
-          "title": "오픈AI, ChatGPT가 덜 '기겁'하도록 GPT-5.3 Instant 업데이트 발표 - 9to5Mac",
+          "title": "오픈AI, GPT-5.3 Instant 업데이트를 통해 ChatGPT의 \"기침\"을 줄이기 위해 출시 - 9to5Mac",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMlRyYThJX25IV25BdllsWkRRZnNLcVVpdGVjazJPWGM0T0RhbjBfNHZhVEJxUW9GSWJQNHN4bGI5OUdFZ0FSekxtSFROX1hCNVlmMGlpTllDVjJ3MUJlY1Y5cjA2YjZldk9TWVBIZG9SUFd1bnhHMkRVYkxEemF1ZWprSVJsUldLTnZLNk9OeklWd3JhTVVMdld2M0FRV0k?oc=5",
           "source": "9to5Mac",
           "date": "Tue, 03 Mar 2026 18:19:00 GMT"
         },
         {
-          "title": "GPT-5.3 Instant 환각을 26.8% 감소시키며 오픈AI는 속도에서 정확성으로 초점 전환 - 벤처 비트",
+          "title": "GPT-5.3 Instant, 환각을 26.8% 감소시키며 오픈AI는 속도에서 정확성으로 초점을 옮김 - 벤처 비트",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjVBM0ZqZXAwMWtvb2U0NTRqcjRUbnhMY1M4OHNjYm1KNHpCNjV4U1pjb3l3alNEMUhLWjZDY3g2a19TWUFPN2pxemRMNDM5NTVMM1pQNVl2VUlVcmFQRXpqekQ5YktTY3FXOGJEa1BMcjV5NWRBZmM0cnJIcXltTENZM3hKMkRGWUd6SXl2N0ZJWnFrUktENGdiNzJHUHpfeklzMFAzNEtGVFpCYmc?oc=5",
           "source": "VentureBeat",
           "date": "Tue, 03 Mar 2026 21:33:50 GMT"
@@ -219,34 +219,34 @@
       "name": "AI Research",
       "articles": [
         {
-          "title": "CHIMERA 데이터셋이 LLM 추론을 강화하다 - StartupHub.ai",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OGxWZkRvcmdXTnpwZ1ZvZFpzNmZfYmI5NjRPY0g4aWVFTmJWZjI0M3ljUXZEUGx5NGNmYTZlSXk0dEk0Z0hodTVTcU1NM3VMQ291V3k0bHl3UklOSG5UZmVINnNqclhHQkpyNEp0ZXVnVkF2Z2c?oc=5",
-          "source": "StartupHub.ai",
-          "date": "Wed, 04 Mar 2026 00:41:28 GMT"
-        },
-        {
-          "title": "오픈소스 AI 도구, 거대 LLM들을 문헌 검토에서 이긴다 - Nature",
+          "title": "오픈소스 AI 툴이 거대 LLM들을 이기고 문학 리뷰에서 정확한 인용을 제공하다 - Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LLUg0Qk1NTS1WYXVtOEgwWDBBckxOZnBGZENvcC1GZkluaW1hX1FsdzJleXBUU2ppNjBhRlhnOFVBc0c0blZydkxtTU90Ymw4LVNjbllMUzRaVUZ4d0Nn?oc=5",
           "source": "Nature",
           "date": "Wed, 04 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "생각의 착각: 문제 복잡성이라는 관점에서 추론 모델들의 강점과 한계 이해하기 - Apple Machine Learning Research",
+          "title": "생각의 착각: 문제 복잡성이라는 관점에서 추론 모델의 강점과 한계 이해하기 - Apple 머신러닝 연구",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42SXFaQkRiT1YwQ2lVeXFRazFKcER4ZmhlRFBqYkU5ZzhRY09VR01UeHFGclFEc0ZjOWI4bkp3andkX1hIODVjS29NSHpZMlRZWkpUcG84NGNQdEpqQUw5OEZKVlZ3Wl91aUxpRDdFME4?oc=5",
           "source": "Apple Machine Learning Research",
           "date": "Thu, 05 Jun 2025 21:09:43 GMT"
         },
         {
-          "title": "타이탄 + MIRAS: AI가 장기 기억을 가지도록 돕는다 - Google Research",
+          "title": "타이탄 + MIRAS: AI가 장기 기억을 가지도록 돕는다 - Google 리서치",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT09kQldONHlTQlJsNmJTTzRRRWowZVBpaWN0YVJkSkJ5NUtGYmlhcF9tRzg4aEJTQXJZZU51czlFN2xoOUpmMGx6QzY4WU9FZTR2SWl3WXhLRmtmVFRsSjVxUnhHd2N2TTVKek1tTmprdW01VnVpZGY0U3JOZXNuOQ?oc=5",
           "source": "Google Research",
           "date": "Thu, 04 Dec 2025 08:00:00 GMT"
         },
         {
-          "title": "2025년 기준으로 머신 러닝 및 생성형 AI의 활용 가능성은? - MIT Sloan",
+          "title": "2025년에 기계 학습 및 생성형 AI는 무엇에 유용할까? - MIT 슬론",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUpZbGhldDIyVXZoemd2MGt5UkNZNW1tMHFYLV8zLXhicGRwZ3daZnhtLUpza1FjOVR5VmhFZzQzVFJ0UmQwdjR5U0I1dTZkUlhtX3VFakRDMXZmLVQ2Umk0TEw0WVRSYnF1eWJvRmVUVmE3aXVjSUloeVpYQXpYMlgyb3FiNGthUmNuX0p5TFptaXJaOXdTTEE3dG1aVzJiZGdaeWtR?oc=5",
           "source": "MIT Sloan",
           "date": "Mon, 02 Jun 2025 07:00:00 GMT"
+        },
+        {
+          "title": "강력한 심층 연구 시스템 구축 방법 - 퍼스펙티브 데이터 사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemo5aE16M0J3ckw5SXJhMFZpT1M4Y3VVTlY5ZXNWaTJQeHR4RHRPa3pOTnRGNm1rMFlZWF9IeVhjR1oxS3BOQlFvcDVMSmdnVFQ3SFRfd3FiX25YOFhIWFpDaU5yM3hUbm9heDRwMGtOd2VqeS1GVXhGemd0TFRXTS1n?oc=5",
+          "source": "Towards Data Science",
+          "date": "Sat, 04 Oct 2025 07:00:00 GMT"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "name": "TechCrunch AI",
       "articles": [
         {
-          "title": "Jensen Huang, Nvidia가 OpenAI와 Anthropic에서 물러나고 있다고 말하지만 그 설명은 더 많은 의문을 남긴다",
+          "title": "Jensen Huang은 Nvidia가 OpenAI와 Anthropic에서 물러나고 있다고 말하지만, 그의 설명은 더 많은 질문을 일으킨다",
           "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
           "source": "TechCrunch AI",
           "date": "Thu, 05 Mar 2026 01:08:28 +0000"
@@ -266,19 +266,19 @@
           "date": "Wed, 04 Mar 2026 22:40:05 +0000"
         },
         {
-          "title": "Apple Music, AI가 만든 음악을 구분할 수 있는 투명성 태그를 추가한다고 보도",
+          "title": "Apple Music이 AI 음악을 구분하기 위한 투명성 태그를 추가할 예정 - 보도",
           "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
           "source": "TechCrunch AI",
           "date": "Wed, 04 Mar 2026 21:43:58 +0000"
         },
         {
-          "title": "Google 검색, 모든 미국 사용자에게 Gemini의 캔버스 AI 모드를 출시",
+          "title": "Google 검색이 모든 미국 사용자에게 Gemini의 캔버스를 AI 모드로 출시하다",
           "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
           "source": "TechCrunch AI",
           "date": "Wed, 04 Mar 2026 18:50:58 +0000"
         },
         {
-          "title": "Decagon, 첫 공모 제안서를 45억 달러 평가로 완료",
+          "title": "Decagon, 첫 공모 제안서를 45억 달러 평가액으로 완료하다",
           "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
           "source": "TechCrunch AI",
           "date": "Wed, 04 Mar 2026 18:32:53 +0000"
@@ -301,19 +301,19 @@
           "date": "2026-03-04T15:32:42-05:00"
         },
         {
-          "title": "검색을 통해 더 많은 사용자들이 구글의 AI 파워드 워크스페이스를 이용할 수 있게 되었다.",
+          "title": "검색을 통해 더 많은 사용자들이 구글의 인공지능 지원 워크스페이스를 이용할 수 있게 되었다.",
           "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
           "source": "The Verge AI",
           "date": "2026-03-04T13:57:01-05:00"
         },
         {
-          "title": "Gemini가 남자를 자살하도록 ‘코칭했다’는 의혹으로 구글이 부당한 사망 소송에 직면하다.",
+          "title": "Gemini가 남자를 자살하도록 ‘코칭했다’는 의혹으로 구글이 부당 사망 소송에 직면하다.",
           "link": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
           "source": "The Verge AI",
           "date": "2026-03-04T12:13:45-05:00"
         },
         {
-          "title": "인공지능은 이제 문화 전쟁과 실제 전쟁의 일부가 되었다.",
+          "title": "인공지능은 이제 문화 전쟁과 실제 전쟁의 일부분이 되었다.",
           "link": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
           "source": "The Verge AI",
           "date": "2026-03-04T11:26:12-05:00"
@@ -324,25 +324,25 @@
       "name": "Ars Technica",
       "articles": [
         {
-          "title": "Downdetector와 Speedtest가 IT 서비스 제공업체인 Accenture에 12억 달러 규모의 거래로 매각되었다.",
+          "title": "Downdetector와 Speedtest가 IT 서비스 제공업체인 아커튜어에게 12억 달러 규모의 거래로 매각되었다.",
           "link": "https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/",
           "source": "Ars Technica",
           "date": "Tue, 03 Mar 2026 22:20:06 +0000"
         },
         {
-          "title": "대형 언어 모델(LLMs)이 익명 사용자를 대규모로 정확하게 식별할 수 있다.",
+          "title": "대형 언어 모델(LLMs)은 익명 사용자를 대규모로 정확하게 식별할 수 있다.",
           "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
           "source": "Ars Technica",
           "date": "Tue, 03 Mar 2026 12:30:24 +0000"
         },
         {
-          "title": "구글, 양자 암호화 기술을 통해 HTTPS를 보호하며 15kB 데이터를 700바이트 공간에 압축했다.",
+          "title": "구글이 양자 암호화를 통해 HTTPS를 보호하며 15kB의 데이터를 700바이트 공간으로 압축했다.",
           "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
           "source": "Ars Technica",
           "date": "Sat, 28 Feb 2026 01:26:41 +0000"
         },
         {
-          "title": "새로운 공기 스니치 공격이 가정과 사무실, 그리고 기업의 Wi-Fi 암호화를 우회한다.",
+          "title": "새로운 AirSnitch 공격은 집, 사무실 및 기업에서 Wi-Fi 암호화를 우회할 수 있다.",
           "link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
           "source": "Ars Technica",
           "date": "Thu, 26 Feb 2026 15:45:18 +0000"
@@ -406,19 +406,19 @@
           "date": "Mon, 19 Jan 2026 14:00:00 GMT"
         },
         {
-          "title": "리스닝 랩스가 AI 고객 인터뷰를 위한 바이럴 전광판 채용 광고 후 69백만 달러를 모금하다",
+          "title": "리스닝 랩스가 AI 고객 인터뷰를 위한 바이럴 전광판 채용 광고 후 69백만 달러를 확보하다",
           "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
           "source": "VentureBeat AI",
           "date": "Fri, 16 Jan 2026 14:01:00 GMT"
         },
         {
-          "title": "세일즈포스가 새로운 슬랙봇 AI 에이전트를 출시하며 마이크로소프트와 구글과의 업무 인공지능 경쟁에 나서다",
+          "title": "세일즈포스가 사내 인공지능 경쟁에서 마이크로소프트와 구글과 맞서기 위해 새로운 Slackbot AI 에이전트를 출시하다",
           "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
           "source": "VentureBeat AI",
           "date": "Tue, 13 Jan 2026 13:00:00 GMT"
         },
         {
-          "title": "안תרופ닉, 코드 데스크톱 에이전트인 코워크를 출시하다 - 파일에서 작업할 수 있으며 코드 작성 필요 없음",
+          "title": "안תרופ닉, 코드 데스크톱 에이전트 Cowork을 출시하다 - 파일 작업에 필요한 코드 없이",
           "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
           "source": "VentureBeat AI",
           "date": "Mon, 12 Jan 2026 11:30:00 GMT"
@@ -429,19 +429,19 @@
       "name": "Wired AI",
       "articles": [
         {
-          "title": "그램마리, 살아 있는 명 작가들과 함께 ‘전문가’ 인공지능 리뷰 제공",
+          "title": "그램마리, 살아 있는 명 작가와 함께하는 ‘전문가’ 인공지능 리뷰 제공",
           "link": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:56:37 +0000"
         },
         {
-          "title": "대기업들이 훌륭한 이미지만으로 무색한 내용의 백악관 데이터센터 서약에 서명하다",
+          "title": "대기업들이 화이트 하우스 데이터 센터 서약에 이름만签署加入，实际内容空洞",
           "link": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:13:27 +0000"
         },
         {
-          "title": "전쟁을 위한 AI 모델은 실제로 어떤 모습인가?",
+          "title": "실제 전쟁 모델 AI는 어떤 모습인가?",
           "link": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
           "source": "Wired AI",
           "date": "Wed, 04 Mar 2026 22:00:03 +0000"
@@ -453,7 +453,7 @@
           "date": "Tue, 03 Mar 2026 01:06:01 +0000"
         },
         {
-          "title": "전화 통화 중 AI 에이전트를 깨우는 명령어를 말하면 호출할 수 있습니다",
+          "title": "전화 통화 중 호출 단어를 말하면 이 인공지능 에이전트를 소환할 수 있습니다",
           "link": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
           "source": "Wired AI",
           "date": "Tue, 03 Mar 2026 00:25:44 +0000"
@@ -461,5 +461,5 @@
       ]
     }
   ],
-  "summary": "### 국내 동향\n\n한국에서는 AI와 금융, 로보틱스의 융합이 주목받고 있다. 하나은행은 전국 영업점에서 생성형 AI와 마이데이터를 결합해 맞춤형 재무상담 서비스를 제공하며 디지털 혁신을 가속화하고 있다. 또한, 크래프톤은 이강욱 신임 CAIO(Chief Artificial Intelligence Officer)를 선임하면서 AI 연구개발에 본격적으로 나서고 있다. 한국표준협회는 'AI+ 신뢰성 인증' 제도를 도입해 AI 기술의 투명성을 강화하고 있으며, 카카오와 크래프톤 등 주요 IT 기업들도 딥러닝 연구에 집중하고 있어 국내 AI 산업이 가속화되고 있다. 또한 북한에서도 산림과학 분야에서 AI를 도입하며 기술 혁신을 시도하고 있다.\n\n### 해외 동향\n\n해외에서는 ChatGPT와 관련된 논란과 업데이트가 주요 화두다. ChatGPT의 군사 계약 문제로 인한 보이콧 운동이 확산되며 오픈AI는 GPT-5.3 Instant를 출시해 정확도를 높이고 사용자 경험을 개선하려 노력하고 있다. 구글은 Gemini 챗봇의 부당 사망 소송으로 인해 법적 문제에 직면했으며, 이로 인해 AI 기술의 윤리성 논란이 커지고 있다. 또한, 엔비디아는 오픈AI 투자를 중단할 가능성을 시사하며 AI 산업에서의 역할 변화를 고려하고 있다.\n\n### 기술 트렌드\n\n대형 언어 모델(LLMs)과 생성형 AI가 더욱 정교해지고 있으며, OpenAI와 Google은 각각 GPT-5.3 Instant와 Gemini 캔버스 AI 모드를 출시해 대화형 인공지능의 자연스러움을 향상시키고 있다. 또한, 새로운 데이터셋인 CHIMERA가 LLM 추론 성능을 강화하고 있으며, 애플은 추론 모델들의 한계와 강점을 분석하는 연구를 발표했다. Nvidia는 양자 암호화 기술을 통해 HTTPS 보안성을 향상시키고 있으며, AI 워크플로우 시장에서 다글로 액션파워가 60억 원의 시리즈B 자금을 유치해 주목받고 있다.\n\n### 산업 전망\n\nAI 기술은 금융, 로보틱스, 의료 등 다양한 분야에 적용되고 있으며, 특히 AI와 통신의 융합이 가속화되고 있다. 노키아는 'AI+통신'을 통해 통신사가 AI 회사로 변모할 수 있는 가능성을 제시하고 있다. 또한, 대기업들은 데이터센터 전기요금 문제를 해결하기 위해 서약에 동참하며 지속 가능한 IT 인프라 구축에 관심을 기울이고 있다. 산업 전망에서는 AI 기술의 윤리적 사용과 신뢰성 확보가 중요한 과제로 떠오르고 있으며, 이는 앞으로의 AI 발전 방향에 큰 영향을 미칠 것으로 예상된다.\n\n### 요약\n\n국내외적으로 AI와 금융, 로보틱스, 통신 등 다양한 분야에서 융합이 활발히 이루어지고 있다. 특히 ChatGPT와 관련된 논란과 업데이트는 AI 기술의 윤리적 사용에 대한 관심을 높이고 있으며, 대형 언어 모델(LLMs)과 생성형 AI가 더욱 정교해지고 있다. Nvidia와 구글 등 주요 IT 기업들은 양자 암호화 및 새로운 데이터셋 등을 통해 보안성과 성능을 향상시키고 있으며, 이는 앞으로의 AI 발전 방향에 중요한 영향을 미칠 것으로 예상된다."
+  "summary": "### 국내 동향  \n한국에서는 AI와 금융, 로보틱스의 융합이 주목받고 있다. 하나은행은 전국 영업점에서 생성형 AI와 마이데이터를 결합해 맞춤형 재무상담 서비스를 제공한다. 이는 고객 맞춤형 솔루션을 통해 금융서비스 혁신을 선도하고 있다. 또한, 한국표준협회가 'AI+ 신뢰성 인증' 프로그램을 발족하며 AI 기술의 품질과 안정성을 강조한다. 이는 AI 시장 확대에 따른 규제 마련 필요성을 반영한 조치로 볼 수 있다.\n\n### 해외 동향  \n해외에서는 GPT-5.3 Instant가 ChatGPT를 업그레이드하며 대화형 AI의 정확도와 자연스러움을 향상시키고 있다. OpenAI는 이 업데이트를 통해 '기침' 현상을 줄이고 환각 발생률을 26.8% 감소시켰다. 그러나 ChatGPT 보이콧 운동이 확산되며 오픈AI의 시장 지배력에 대한 도전도 심화되고 있다. 구글은 자회사 제미니 챗봇과 관련해 부당 사망 소송을 받고 있으며, 이는 AI 윤리 문제를 다시 한 번 논란으로 몰아넣었다.\n\n### 기술 트렌드  \nAI와 로보틱스의 결합이 본격화되고 있다. 노키아는 'AI+ 통신' 전략인 AI-RAN을 통해 통신사가 AI 회사로 변모할 가능성을 제시한다. 또한, 어도비는 챗GPT를 활용해 포토샵, 익스프레스, 애크로뱃 등 크리에이티브 도구 접근성을 확대하고 있다. 이는 AI 기술을 통해 사용자 경험을 혁신적으로 개선하려는 움직임의 일환이다.\n\n### 산업 전망  \nAI 시장은 급격한 성장을 겪고 있으며, NVIDIA와 Broadcom 등 하드웨어 제조사들이 인공지능 칩 매출 확대를 예상하고 있다. 특히, Broadcom CEO는 내년 AI 칩 매출이 100억 달러를 넘을 것으로 전망했다. 한편, 중국 기술주가 대규모 가치 손실을 겪으며 알리바바와 텐센트의 AI 보조금 경쟁도 직격탄을 맞았다. 이는 글로벌 시장에서 AI 경쟁이 더욱 치열해질 것임을 예고한다.\n\n### 기타 주요 뉴스  \n- **AI 윤리 문제**: 제미니 챗봇과 관련된 부당 사망 소송은 AI 기술의 윤리적 사용에 대한 논란을 일으켰다. 이는 개발자와 사용자가 AI 시스템에서 발생할 수 있는 위험성을 인식하고 대비해야 한다는 경고로 볼 수 있다.\n- **AI 신뢰성**: OpenAI가 GPT-5.3 Instant를 통해 정확도를 높이는 한편, 녹색경제신문은 인간이 AI 상사에게 일하는 시대의 도래를 예견했다. 이는 AI 기술이 조직 내에서 더 중요한 역할을 할 수 있음을 보여준다.\n- **AI와 전쟁**: CBS 뉴스에 따르면, 안소프닉의 클로드 AI가 미국 군사에서 이란 전쟁에 사용되고 있다. 이는 AI가 실제 전쟁과 문화 전쟁의 일부분으로 자리잡고 있음을 보여준다.\n\n이러한 트렌드와 뉴스들은 AI 기술이 금융, 로보틱스, 군사 등 다양한 분야에서 중요한 역할을 할 수 있다는 것을 시사한다. 동시에, 이에 따른 윤리적 문제와 규제 마련의 필요성이 더욱 중요해지고 있다."
 }
